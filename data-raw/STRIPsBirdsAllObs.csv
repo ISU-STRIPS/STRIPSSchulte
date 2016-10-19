@@ -1,0 +1,1051 @@
+Survey,Year,Julian,Site,Block,Treatment,TotalHa,TBA,Richness,simp.ind,Simp1
+7001,2007,149,Bass1,Basswood,10% prairie bottom,0.55,0,0,0,1
+7002,2007,149,Bass2,Basswood,10% prairie strips,0.56,0,0,0,1
+7003,2007,149,Bass3,Basswood,20% prairie strips,0.57,2,2,2,3
+7004,2007,149,Bass4,Basswood,20% prairie strips,0.61,0,0,0,1
+7005,2007,149,Bass5,Basswood,10% prairie strips,1.31,1,1,1,2
+7006,2007,149,Bass6,Basswood,0% prairie,0.81,2,2,1,2
+7007,2007,149,Int1,Interim,10% prairie strips,3.1,4,2,1.6,2.6
+7008,2007,149,Int2,Interim,10% prairie bottom,3.24,7,3,2.333333333,3.333333333
+7009,2007,149,Int3,Interim,0% prairie,0.61,6,4,3,4
+7010,2007,149,Orb1,Orbweaver,10% prairie bottom,1.25,10,5,4.454545455,5.454545455
+7011,2007,149,Orb2,Orbweaver,20% prairie strips,2.51,2,1,1,2
+7012,2007,149,Orb3,Orbweaver,0% prairie,1.24,2,2,2,3
+7013,2007,151,Bass1,Basswood,10% prairie bottom,0.55,1,1,1,2
+7014,2007,151,Bass2,Basswood,10% prairie strips,0.56,2,2,2,3
+7015,2007,151,Bass3,Basswood,20% prairie strips,0.57,1,1,1,2
+7016,2007,151,Bass4,Basswood,20% prairie strips,0.61,1,1,1,2
+7017,2007,151,Bass5,Basswood,10% prairie strips,1.31,6,2,1.8,2.8
+7018,2007,151,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+7019,2007,151,Int1,Interim,10% prairie strips,3.1,3,2,1.8,2.8
+7020,2007,151,Int2,Interim,10% prairie bottom,3.24,5,3,2.272727273,3.272727273
+7021,2007,151,Int3,Interim,0% prairie,0.61,0,0,0,1
+7022,2007,151,Orb1,Orbweaver,10% prairie bottom,1.25,5,3,3,4
+7023,2007,151,Orb2,Orbweaver,20% prairie strips,2.51,11,4,1.805970149,2.805970149
+7024,2007,151,Orb3,Orbweaver,0% prairie,1.24,4,3,1.8,2.8
+7025,2007,155,Bass1,Basswood,10% prairie bottom,0.55,2,2,2,3
+7026,2007,155,Bass2,Basswood,10% prairie strips,0.56,4,2,1.6,2.6
+7027,2007,155,Bass3,Basswood,20% prairie strips,0.57,5,3,2.272727273,3.272727273
+7028,2007,155,Bass4,Basswood,20% prairie strips,0.61,2,2,2,3
+7029,2007,155,Bass5,Basswood,10% prairie strips,1.31,3,1,1,2
+7030,2007,155,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+7031,2007,155,Int1,Interim,10% prairie strips,3.1,5,4,3.571428571,4.571428571
+7032,2007,155,Int2,Interim,10% prairie bottom,3.24,3,1,1,2
+7033,2007,155,Int3,Interim,0% prairie,0.61,2,2,2,3
+7034,2007,155,Orb1,Orbweaver,10% prairie bottom,1.25,1,1,1,2
+7035,2007,155,Orb2,Orbweaver,20% prairie strips,2.51,1,1,1,2
+7036,2007,155,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+7037,2007,156,Bass1,Basswood,10% prairie bottom,0.55,0,0,0,1
+7038,2007,156,Bass2,Basswood,10% prairie strips,0.56,3,3,3,4
+7039,2007,156,Bass3,Basswood,20% prairie strips,0.57,3,2,1.8,2.8
+7040,2007,156,Bass4,Basswood,20% prairie strips,0.61,2,2,2,3
+7041,2007,156,Bass5,Basswood,10% prairie strips,1.31,2,2,2,3
+7042,2007,156,Bass6,Basswood,0% prairie,0.81,3,2,1.8,2.8
+7043,2007,156,Int1,Interim,10% prairie strips,3.1,6,2,1.384615385,2.384615385
+7044,2007,156,Int2,Interim,10% prairie bottom,3.24,4,3,2.666666667,3.666666667
+7045,2007,156,Int3,Interim,0% prairie,0.61,1,1,1,2
+7046,2007,156,Orb1,Orbweaver,10% prairie bottom,1.25,10,4,3.333333333,4.333333333
+7047,2007,156,Orb2,Orbweaver,20% prairie strips,2.51,6,3,2.571428571,3.571428571
+7048,2007,156,Orb3,Orbweaver,0% prairie,1.24,2,1,1,2
+7049,2007,164,Bass1,Basswood,10% prairie bottom,0.55,1,1,1,2
+7050,2007,164,Bass2,Basswood,10% prairie strips,0.56,0,0,0,1
+7051,2007,164,Bass3,Basswood,20% prairie strips,0.57,2,2,2,3
+7052,2007,164,Bass4,Basswood,20% prairie strips,0.61,2,2,2,3
+7053,2007,164,Bass5,Basswood,10% prairie strips,1.31,3,3,3,4
+7055,2007,164,Int1,Interim,10% prairie strips,3.1,2,2,2,3
+7056,2007,164,Int2,Interim,10% prairie bottom,3.24,4,2,2,3
+7057,2007,164,Int3,Interim,0% prairie,0.61,2,2,2,3
+7058,2007,164,Orb1,Orbweaver,10% prairie bottom,1.25,5,3,2.777777778,3.777777778
+7059,2007,164,Orb2,Orbweaver,20% prairie strips,2.51,6,4,3.6,4.6
+7060,2007,164,Orb3,Orbweaver,0% prairie,1.24,2,2,2,3
+7061,2007,170,Bass1,Basswood,10% prairie bottom,0.55,0,0,0,1
+7062,2007,170,Bass2,Basswood,10% prairie strips,0.56,2,1,1,2
+7063,2007,170,Bass3,Basswood,20% prairie strips,0.57,2,1,1,2
+7064,2007,170,Bass4,Basswood,20% prairie strips,0.61,5,4,3.571428571,4.571428571
+7065,2007,170,Bass5,Basswood,10% prairie strips,1.31,7,3,2.578947368,3.578947368
+7066,2007,170,Bass6,Basswood,0% prairie,0.81,3,2,1.8,2.8
+7067,2007,170,Int1,Interim,10% prairie strips,3.1,5,2,1.470588235,2.470588235
+7068,2007,170,Int2,Interim,10% prairie bottom,3.24,2,1,1,2
+7069,2007,170,Int3,Interim,0% prairie,0.61,5,3,2.272727273,3.272727273
+7070,2007,170,Orb1,Orbweaver,10% prairie bottom,1.25,4,2,1.8,2.8
+7071,2007,170,Orb2,Orbweaver,20% prairie strips,2.51,13,2,1.352,2.352
+7072,2007,170,Orb3,Orbweaver,0% prairie,1.24,2,2,2,3
+7073,2007,171,Bass1,Basswood,10% prairie bottom,0.55,3,2,1.8,2.8
+7074,2007,171,Bass2,Basswood,10% prairie strips,0.56,4,3,2.666666667,3.666666667
+7075,2007,171,Bass3,Basswood,20% prairie strips,0.57,4,2,2,3
+7076,2007,171,Bass4,Basswood,20% prairie strips,0.61,5,3,2.777777778,3.777777778
+7077,2007,171,Bass5,Basswood,10% prairie strips,1.31,3,2,1.8,2.8
+7078,2007,171,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+7079,2007,171,Int1,Interim,10% prairie strips,3.1,2,2,2,3
+7080,2007,171,Int2,Interim,10% prairie bottom,3.24,4,3,2.666666667,3.666666667
+7081,2007,171,Int3,Interim,0% prairie,0.61,2,1,1,2
+7082,2007,171,Orb1,Orbweaver,10% prairie bottom,1.25,5,3,2.666666667,3.666666667
+7083,2007,171,Orb2,Orbweaver,20% prairie strips,2.51,10,5,2.5,3.5
+7084,2007,171,Orb3,Orbweaver,0% prairie,1.24,9,3,1.588235294,2.588235294
+7085,2007,183,Bass1,Basswood,10% prairie bottom,0.55,1,1,1,2
+7086,2007,183,Bass2,Basswood,10% prairie strips,0.56,2,1,1,2
+7087,2007,183,Bass3,Basswood,20% prairie strips,0.57,3,1,1,2
+7088,2007,183,Bass4,Basswood,20% prairie strips,0.61,2,1,1,2
+7089,2007,183,Bass5,Basswood,10% prairie strips,1.31,3,2,1.8,2.8
+7090,2007,183,Bass6,Basswood,0% prairie,0.81,2,1,1,2
+7091,2007,183,Int1,Interim,10% prairie strips,3.1,6,3,3,4
+7092,2007,183,Int2,Interim,10% prairie bottom,3.24,1,1,1,2
+7093,2007,183,Int3,Interim,0% prairie,0.61,1,1,1,2
+7094,2007,183,Orb1,Orbweaver,10% prairie bottom,1.25,6,1,1,2
+7095,2007,183,Orb2,Orbweaver,20% prairie strips,2.51,10,3,2.941176471,3.941176471
+7096,2007,183,Orb3,Orbweaver,0% prairie,1.24,3,2,1.8,2.8
+8001,2008,149,Bass1,Basswood,10% prairie bottom,0.55,8,5,4.571428571,5.571428571
+8002,2008,149,Bass2,Basswood,10% prairie strips,0.56,2,2,1,2
+8003,2008,149,Bass3,Basswood,20% prairie strips,0.57,7,3,2,3
+8004,2008,149,Bass4,Basswood,20% prairie strips,0.61,4,4,4,5
+8005,2008,149,Bass5,Basswood,10% prairie strips,1.31,10,6,4.764705882,5.764705882
+8006,2008,149,Bass6,Basswood,0% prairie,0.81,7,4,3.769230769,4.769230769
+8007,2008,149,Int1,Interim,10% prairie strips,3.1,3,3,3,4
+8008,2008,149,Int2,Interim,10% prairie bottom,3.24,13,8,6.259259259,7.259259259
+8009,2008,149,Int3,Interim,0% prairie,0.61,1,1,1,2
+8010,2008,149,Orb1,Orbweaver,10% prairie bottom,1.25,11,8,7.142857143,8.142857143
+8011,2008,149,Orb2,Orbweaver,20% prairie strips,2.51,5,4,3.571428571,4.571428571
+8012,2008,149,Orb3,Orbweaver,0% prairie,1.24,3,2,2,3
+8013,2008,153,Bass1,Basswood,10% prairie bottom,0.55,3,2,1.8,2.8
+8014,2008,153,Bass2,Basswood,10% prairie strips,0.56,5,3,2.666666667,3.666666667
+8015,2008,153,Bass3,Basswood,20% prairie strips,0.57,3,3,3,4
+8016,2008,153,Bass4,Basswood,20% prairie strips,0.61,4,3,2.666666667,3.666666667
+8017,2008,153,Bass5,Basswood,10% prairie strips,1.31,4,2,1.8,2.8
+8018,2008,153,Bass6,Basswood,0% prairie,0.81,2,2,1,2
+8019,2008,153,Int1,Interim,10% prairie strips,3.1,14,8,7.142857143,8.142857143
+8020,2008,153,Int2,Interim,10% prairie bottom,3.24,7,5,4.454545455,5.454545455
+8021,2008,153,Int3,Interim,0% prairie,0.61,3,3,3,4
+8022,2008,153,Orb1,Orbweaver,10% prairie bottom,1.25,16,8,4.454545455,5.454545455
+8023,2008,153,Orb2,Orbweaver,20% prairie strips,2.51,5,4,4,5
+8024,2008,153,Orb3,Orbweaver,0% prairie,1.24,2,1,1,2
+8025,2008,155,Bass1,Basswood,10% prairie bottom,0.55,3,2,2,3
+8026,2008,155,Bass2,Basswood,10% prairie strips,0.56,8,5,4.5,5.5
+8027,2008,155,Bass3,Basswood,20% prairie strips,0.57,1,1,1,2
+8028,2008,155,Bass4,Basswood,20% prairie strips,0.61,3,1,1,2
+8029,2008,155,Bass5,Basswood,10% prairie strips,1.31,3,2,2,3
+8030,2008,155,Bass6,Basswood,0% prairie,0.81,6,3,3,4
+8031,2008,155,Int1,Interim,10% prairie strips,3.1,17,14,10.88888889,11.88888889
+8032,2008,155,Int2,Interim,10% prairie bottom,3.24,9,5,3.266666667,4.266666667
+8033,2008,155,Int3,Interim,0% prairie,0.61,4,3,2.666666667,3.666666667
+8034,2008,155,Orb1,Orbweaver,10% prairie bottom,1.25,10,5,3.2,4.2
+8035,2008,155,Orb2,Orbweaver,20% prairie strips,2.51,12,7,6.368421053,7.368421053
+8036,2008,155,Orb3,Orbweaver,0% prairie,1.24,1,1,1,2
+8037,2008,159,Bass1,Basswood,10% prairie bottom,0.55,7,4,2.777777778,3.777777778
+8038,2008,159,Bass2,Basswood,10% prairie strips,0.56,4,3,2.666666667,3.666666667
+8039,2008,159,Bass3,Basswood,20% prairie strips,0.57,4,4,4,5
+8040,2008,159,Bass4,Basswood,20% prairie strips,0.61,4,3,1.8,2.8
+8041,2008,159,Bass5,Basswood,10% prairie strips,1.31,5,2,1.6,2.6
+8042,2008,159,Bass6,Basswood,0% prairie,0.81,1,1,1,2
+8043,2008,159,Int1,Interim,10% prairie strips,3.1,5,5,5,6
+8044,2008,159,Int2,Interim,10% prairie bottom,3.24,14,9,7.538461538,8.538461538
+8045,2008,159,Int3,Interim,0% prairie,0.61,1,1,1,2
+8046,2008,159,Orb1,Orbweaver,10% prairie bottom,1.25,8,5,4.454545455,5.454545455
+8047,2008,159,Orb2,Orbweaver,20% prairie strips,2.51,6,5,4.5,5.5
+8048,2008,159,Orb3,Orbweaver,0% prairie,1.24,2,2,1,2
+8049,2008,165,Bass1,Basswood,10% prairie bottom,0.55,4,3,2.666666667,3.666666667
+8050,2008,165,Bass2,Basswood,10% prairie strips,0.56,7,5,4.454545455,5.454545455
+8051,2008,165,Bass3,Basswood,20% prairie strips,0.57,3,3,3,4
+8052,2008,165,Bass4,Basswood,20% prairie strips,0.61,6,2,1.8,2.8
+8053,2008,165,Bass5,Basswood,10% prairie strips,1.31,12,7,6,7
+8054,2008,165,Bass6,Basswood,0% prairie,0.81,2,2,2,3
+8055,2008,165,Int1,Interim,10% prairie strips,3.1,10,7,6.25,7.25
+8056,2008,165,Int2,Interim,10% prairie bottom,3.24,7,5,4.454545455,5.454545455
+8057,2008,165,Int3,Interim,0% prairie,0.61,2,2,1,2
+8058,2008,165,Orb1,Orbweaver,10% prairie bottom,1.25,13,4,2.909090909,3.909090909
+8059,2008,165,Orb2,Orbweaver,20% prairie strips,2.51,10,6,5,6
+8060,2008,165,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+8061,2008,166,Bass1,Basswood,10% prairie bottom,0.55,4,2,2,3
+8062,2008,166,Bass2,Basswood,10% prairie strips,0.56,4,3,2.666666667,3.666666667
+8063,2008,166,Bass3,Basswood,20% prairie strips,0.57,2,2,1,2
+8064,2008,166,Bass4,Basswood,20% prairie strips,0.61,3,3,3,4
+8065,2008,166,Bass5,Basswood,10% prairie strips,1.31,4,2,2,3
+8067,2008,166,Int1,Interim,10% prairie strips,3.1,12,6,5.142857143,6.142857143
+8068,2008,166,Int2,Interim,10% prairie bottom,3.24,9,7,6,7
+8069,2008,166,Int3,Interim,0% prairie,0.61,6,2,1.470588235,2.470588235
+8070,2008,166,Orb1,Orbweaver,10% prairie bottom,1.25,9,4,2.578947368,3.578947368
+8071,2008,166,Orb2,Orbweaver,20% prairie strips,2.51,10,6,4.5,5.5
+8072,2008,166,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+8073,2008,170,Bass1,Basswood,10% prairie bottom,0.55,2,1,1,2
+8074,2008,170,Bass2,Basswood,10% prairie strips,0.56,1,1,1,2
+8075,2008,170,Bass3,Basswood,20% prairie strips,0.57,2,1,1,2
+8076,2008,170,Bass4,Basswood,20% prairie strips,0.61,6,4,3.6,4.6
+8077,2008,170,Bass5,Basswood,10% prairie strips,1.31,4,3,1.8,2.8
+8078,2008,170,Bass6,Basswood,0% prairie,0.81,5,2,1,2
+8079,2008,170,Int1,Interim,10% prairie strips,3.1,20,8,3.951219512,4.951219512
+8080,2008,170,Int2,Interim,10% prairie bottom,3.24,9,5,4.454545455,5.454545455
+8081,2008,170,Int3,Interim,0% prairie,0.61,7,3,2.882352941,3.882352941
+8082,2008,170,Orb1,Orbweaver,10% prairie bottom,1.25,9,5,3.52173913,4.52173913
+8083,2008,170,Orb2,Orbweaver,20% prairie strips,2.51,12,6,5.260869565,6.260869565
+8084,2008,170,Orb3,Orbweaver,0% prairie,1.24,1,1,1,2
+8085,2008,171,Bass1,Basswood,10% prairie bottom,0.55,1,1,1,2
+8086,2008,171,Bass2,Basswood,10% prairie strips,0.56,4,3,3,4
+8087,2008,171,Bass3,Basswood,20% prairie strips,0.57,2,2,2,3
+8088,2008,171,Bass4,Basswood,20% prairie strips,0.61,1,1,1,2
+8089,2008,171,Bass5,Basswood,10% prairie strips,1.31,3,2,2,3
+8090,2008,171,Bass6,Basswood,0% prairie,0.81,3,2,1.8,2.8
+8091,2008,171,Int1,Interim,10% prairie strips,3.1,14,7,5.538461538,6.538461538
+8092,2008,171,Int2,Interim,10% prairie bottom,3.24,17,8,5.666666667,6.666666667
+8093,2008,171,Int3,Interim,0% prairie,0.61,3,1,1,2
+8094,2008,171,Orb1,Orbweaver,10% prairie bottom,1.25,7,5,4.454545455,5.454545455
+8095,2008,171,Orb2,Orbweaver,20% prairie strips,2.51,13,5,2.482758621,3.482758621
+8096,2008,171,Orb3,Orbweaver,0% prairie,1.24,2,2,2,3
+8097,2008,172,Bass1,Basswood,10% prairie bottom,0.55,1,1,1,2
+8098,2008,172,Bass2,Basswood,10% prairie strips,0.56,2,2,2,3
+8099,2008,172,Bass3,Basswood,20% prairie strips,0.57,4,4,4,5
+8100,2008,172,Bass4,Basswood,20% prairie strips,0.61,9,4,2.909090909,3.909090909
+8101,2008,172,Bass5,Basswood,10% prairie strips,1.31,8,4,3.6,4.6
+8102,2008,172,Bass6,Basswood,0% prairie,0.81,1,1,1,2
+8103,2008,172,Int1,Interim,10% prairie strips,3.1,11,4,3.102564103,4.102564103
+8104,2008,172,Int2,Interim,10% prairie bottom,3.24,10,6,4.764705882,5.764705882
+8105,2008,172,Int3,Interim,0% prairie,0.61,3,2,1.8,2.8
+8106,2008,172,Orb1,Orbweaver,10% prairie bottom,1.25,9,5,3.857142857,4.857142857
+8107,2008,172,Orb2,Orbweaver,20% prairie strips,2.51,8,5,4,5
+8108,2008,172,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+8109,2008,175,Bass1,Basswood,10% prairie bottom,0.55,2,1,1,2
+8110,2008,175,Bass2,Basswood,10% prairie strips,0.56,5,3,1.8,2.8
+8111,2008,175,Bass3,Basswood,20% prairie strips,0.57,6,4,3.571428571,4.571428571
+8112,2008,175,Bass4,Basswood,20% prairie strips,0.61,4,3,3,4
+8113,2008,175,Bass5,Basswood,10% prairie strips,1.31,8,3,2.882352941,3.882352941
+8114,2008,175,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+8115,2008,175,Int1,Interim,10% prairie strips,3.1,18,7,4.909090909,5.909090909
+8116,2008,175,Int2,Interim,10% prairie bottom,3.24,10,8,7.142857143,8.142857143
+8117,2008,175,Int3,Interim,0% prairie,0.61,2,1,1,2
+8118,2008,175,Orb1,Orbweaver,10% prairie bottom,1.25,8,4,2.909090909,3.909090909
+8119,2008,175,Orb2,Orbweaver,20% prairie strips,2.51,6,4,3.6,4.6
+8120,2008,175,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+8121,2008,176,Bass1,Basswood,10% prairie bottom,0.55,2,2,2,3
+8122,2008,176,Bass2,Basswood,10% prairie strips,0.56,4,3,2,3
+8123,2008,176,Bass3,Basswood,20% prairie strips,0.57,4,4,4,5
+8124,2008,176,Bass4,Basswood,20% prairie strips,0.61,5,2,1.470588235,2.470588235
+8125,2008,176,Bass5,Basswood,10% prairie strips,1.31,5,5,5,6
+8126,2008,176,Bass6,Basswood,0% prairie,0.81,3,1,1,2
+8127,2008,176,Int1,Interim,10% prairie strips,3.1,11,6,4.481481481,5.481481481
+8128,2008,176,Int2,Interim,10% prairie bottom,3.24,8,5,2.578947368,3.578947368
+8129,2008,176,Int3,Interim,0% prairie,0.61,5,4,3.571428571,4.571428571
+8130,2008,176,Orb1,Orbweaver,10% prairie bottom,1.25,11,5,4.166666667,5.166666667
+8131,2008,176,Orb2,Orbweaver,20% prairie strips,2.51,7,4,2.578947368,3.578947368
+8132,2008,176,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+8133,2008,183,Bass1,Basswood,10% prairie bottom,0.55,2,2,2,3
+8134,2008,183,Bass2,Basswood,10% prairie strips,0.56,4,3,2,3
+8135,2008,183,Bass3,Basswood,20% prairie strips,0.57,4,3,3,4
+8136,2008,183,Bass4,Basswood,20% prairie strips,0.61,6,3,3,4
+8137,2008,183,Bass5,Basswood,10% prairie strips,1.31,1,1,1,2
+8138,2008,183,Bass6,Basswood,0% prairie,0.81,4,1,1,2
+8139,2008,183,Int1,Interim,10% prairie strips,3.1,15,7,6.259259259,7.259259259
+8140,2008,183,Int2,Interim,10% prairie bottom,3.24,10,6,4.166666667,5.166666667
+8141,2008,183,Int3,Interim,0% prairie,0.61,8,5,4.454545455,5.454545455
+8142,2008,183,Orb1,Orbweaver,10% prairie bottom,1.25,5,2,1.8,2.8
+8143,2008,183,Orb2,Orbweaver,20% prairie strips,2.51,14,6,3.266666667,4.266666667
+8144,2008,183,Orb3,Orbweaver,0% prairie,1.24,7,4,2.578947368,3.578947368
+9001,2009,147,Bass1,Basswood,10% prairie bottom,0.55,5,3,2.272727273,3.272727273
+9002,2009,147,Bass2,Basswood,10% prairie strips,0.56,7,3,2.777777778,3.777777778
+9003,2009,147,Bass3,Basswood,20% prairie strips,0.57,3,3,2,3
+9004,2009,147,Bass4,Basswood,20% prairie strips,0.61,1,1,1,2
+9005,2009,147,Bass5,Basswood,10% prairie strips,1.31,4,1,1,2
+9006,2009,147,Bass6,Basswood,0% prairie,0.81,1,1,1,2
+9007,2009,147,Int1,Interim,10% prairie strips,3.1,20,12,9.256410256,10.25641026
+9008,2009,147,Int2,Interim,10% prairie bottom,3.24,8,6,4.5,5.5
+9009,2009,147,Int3,Interim,0% prairie,0.61,4,3,2.666666667,3.666666667
+9010,2009,147,Orb1,Orbweaver,10% prairie bottom,1.25,11,6,5.555555556,6.555555556
+9011,2009,147,Orb2,Orbweaver,20% prairie strips,2.51,8,3,2.461538462,3.461538462
+9012,2009,147,Orb3,Orbweaver,0% prairie,1.24,9,2,1.8,2.8
+9013,2009,148,Bass1,Basswood,10% prairie bottom,0.55,6,5,4.5,5.5
+9014,2009,148,Bass2,Basswood,10% prairie strips,0.56,3,2,1.8,2.8
+9015,2009,148,Bass3,Basswood,20% prairie strips,0.57,3,3,3,4
+9016,2009,148,Bass4,Basswood,20% prairie strips,0.61,5,4,4,5
+9017,2009,148,Bass5,Basswood,10% prairie strips,1.31,2,2,1,2
+9018,2009,148,Bass6,Basswood,0% prairie,0.81,1,1,1,2
+9019,2009,148,Int1,Interim,10% prairie strips,3.1,12,6,5.761904762,6.761904762
+9020,2009,148,Int2,Interim,10% prairie bottom,3.24,12,7,5.761904762,6.761904762
+9021,2009,148,Int3,Interim,0% prairie,0.61,4,3,2.666666667,3.666666667
+9022,2009,148,Orb1,Orbweaver,10% prairie bottom,1.25,5,5,5,6
+9023,2009,148,Orb2,Orbweaver,20% prairie strips,2.51,10,4,2.380952381,3.380952381
+9024,2009,148,Orb3,Orbweaver,0% prairie,1.24,2,1,1,2
+9025,2009,149,Bass1,Basswood,10% prairie bottom,0.55,1,1,1,2
+9026,2009,149,Bass2,Basswood,10% prairie strips,0.56,1,1,1,2
+9027,2009,149,Bass3,Basswood,20% prairie strips,0.57,0,0,0,1
+9028,2009,149,Bass4,Basswood,20% prairie strips,0.61,1,1,1,2
+9029,2009,149,Bass5,Basswood,10% prairie strips,1.31,5,2,1.8,2.8
+9030,2009,149,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+9031,2009,149,Int1,Interim,10% prairie strips,3.1,24,8,6.4,7.4
+9032,2009,149,Int2,Interim,10% prairie bottom,3.24,18,8,5.12,6.12
+9033,2009,149,Int3,Interim,0% prairie,0.61,6,2,1.384615385,2.384615385
+9034,2009,149,Orb1,Orbweaver,10% prairie bottom,1.25,17,9,8.047619048,9.047619048
+9035,2009,149,Orb2,Orbweaver,20% prairie strips,2.51,12,9,8,9
+9036,2009,149,Orb3,Orbweaver,0% prairie,1.24,9,6,4.764705882,5.764705882
+9037,2009,152,Bass1,Basswood,10% prairie bottom,0.55,2,1,1,2
+9038,2009,152,Bass2,Basswood,10% prairie strips,0.56,1,1,1,2
+9039,2009,152,Bass3,Basswood,20% prairie strips,0.57,5,3,2.777777778,3.777777778
+9040,2009,152,Bass4,Basswood,20% prairie strips,0.61,3,3,3,4
+9041,2009,152,Bass5,Basswood,10% prairie strips,1.31,1,1,1,2
+9042,2009,152,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+9043,2009,152,Int1,Interim,10% prairie strips,3.1,13,8,5.827586207,6.827586207
+9044,2009,152,Int2,Interim,10% prairie bottom,3.24,16,6,3.461538462,4.461538462
+9045,2009,152,Int3,Interim,0% prairie,0.61,5,2,1.923076923,2.923076923
+9046,2009,152,Orb1,Orbweaver,10% prairie bottom,1.25,5,5,5,6
+9047,2009,152,Orb2,Orbweaver,20% prairie strips,2.51,18,7,5,6
+9048,2009,152,Orb3,Orbweaver,0% prairie,1.24,2,2,2,3
+9049,2009,154,Bass1,Basswood,10% prairie bottom,0.55,1,1,1,2
+9050,2009,154,Bass2,Basswood,10% prairie strips,0.56,1,1,1,2
+9051,2009,154,Bass3,Basswood,20% prairie strips,0.57,1,1,1,2
+9052,2009,154,Bass4,Basswood,20% prairie strips,0.61,2,1,1,2
+9053,2009,154,Bass5,Basswood,10% prairie strips,1.31,5,3,2.666666667,3.666666667
+9054,2009,154,Bass6,Basswood,0% prairie,0.81,1,1,1,2
+9055,2009,154,Int1,Interim,10% prairie strips,3.1,18,7,4.188405797,5.188405797
+9056,2009,154,Int2,Interim,10% prairie bottom,3.24,10,5,3.24,4.24
+9057,2009,154,Int3,Interim,0% prairie,0.61,1,1,1,2
+9058,2009,154,Orb1,Orbweaver,10% prairie bottom,1.25,7,4,2.777777778,3.777777778
+9059,2009,154,Orb2,Orbweaver,20% prairie strips,2.51,32,6,3.322033898,4.322033898
+9060,2009,154,Orb3,Orbweaver,0% prairie,1.24,8,4,2.909090909,3.909090909
+9061,2009,155,Bass1,Basswood,10% prairie bottom,0.55,4,3,2.666666667,3.666666667
+9062,2009,155,Bass2,Basswood,10% prairie strips,0.56,0,0,0,1
+9063,2009,155,Bass3,Basswood,20% prairie strips,0.57,1,1,1,2
+9064,2009,155,Bass4,Basswood,20% prairie strips,0.61,6,2,1.8,2.8
+9065,2009,155,Bass5,Basswood,10% prairie strips,1.31,0,0,0,1
+9066,2009,155,Bass6,Basswood,0% prairie,0.81,1,1,1,2
+9067,2009,155,Int1,Interim,10% prairie strips,3.1,17,8,5.070175439,6.070175439
+9068,2009,155,Int2,Interim,10% prairie bottom,3.24,11,7,6.368421053,7.368421053
+9069,2009,155,Int3,Interim,0% prairie,0.61,5,2,1.923076923,2.923076923
+9070,2009,155,Orb1,Orbweaver,10% prairie bottom,1.25,9,4,3.52173913,4.52173913
+9071,2009,155,Orb2,Orbweaver,20% prairie strips,2.51,14,6,4.260869565,5.260869565
+9072,2009,155,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+9073,2009,156,Bass1,Basswood,10% prairie bottom,0.55,1,1,1,2
+9074,2009,156,Bass2,Basswood,10% prairie strips,0.56,0,0,0,1
+9075,2009,156,Bass3,Basswood,20% prairie strips,0.57,1,1,1,2
+9076,2009,156,Bass4,Basswood,20% prairie strips,0.61,2,1,1,2
+9077,2009,156,Bass5,Basswood,10% prairie strips,1.31,2,2,2,3
+9078,2009,156,Bass6,Basswood,0% prairie,0.81,1,1,1,2
+9079,2009,156,Int1,Interim,10% prairie strips,3.1,12,6,5.142857143,6.142857143
+9080,2009,156,Int2,Interim,10% prairie bottom,3.24,5,4,3.571428571,4.571428571
+9081,2009,156,Int3,Interim,0% prairie,0.61,4,3,2.666666667,3.666666667
+9082,2009,156,Orb1,Orbweaver,10% prairie bottom,1.25,7,4,3.266666667,4.266666667
+9083,2009,156,Orb2,Orbweaver,20% prairie strips,2.51,12,4,3.428571429,4.428571429
+9084,2009,156,Orb3,Orbweaver,0% prairie,1.24,2,2,2,3
+9085,2009,160,Bass1,Basswood,10% prairie bottom,0.55,3,2,1.8,2.8
+9086,2009,160,Bass2,Basswood,10% prairie strips,0.56,2,1,1,2
+9087,2009,160,Bass3,Basswood,20% prairie strips,0.57,4,4,4,5
+9088,2009,160,Bass4,Basswood,20% prairie strips,0.61,7,5,4.454545455,5.454545455
+9089,2009,160,Bass5,Basswood,10% prairie strips,1.31,6,4,3.6,4.6
+9090,2009,160,Bass6,Basswood,0% prairie,0.81,3,2,1.8,2.8
+9091,2009,160,Int1,Interim,10% prairie strips,3.1,7,4,3.266666667,4.266666667
+9092,2009,160,Int2,Interim,10% prairie bottom,3.24,11,6,5.260869565,6.260869565
+9093,2009,160,Int3,Interim,0% prairie,0.61,3,3,3,4
+9094,2009,160,Orb1,Orbweaver,10% prairie bottom,1.25,9,6,5.444444444,6.444444444
+9095,2009,161,Bass1,Basswood,10% prairie bottom,0.55,2,1,1,2
+9096,2009,161,Bass2,Basswood,10% prairie strips,0.56,0,0,0,1
+9097,2009,161,Bass3,Basswood,20% prairie strips,0.57,1,1,1,2
+9098,2009,161,Bass4,Basswood,20% prairie strips,0.61,2,1,1,2
+9099,2009,161,Bass5,Basswood,10% prairie strips,1.31,3,2,2,3
+9100,2009,161,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+9101,2009,161,Int1,Interim,10% prairie strips,3.1,10,5,3.125,4.125
+9102,2009,161,Int2,Interim,10% prairie bottom,3.24,4,4,4,5
+9103,2009,161,Int3,Interim,0% prairie,0.61,4,2,1.6,2.6
+9104,2009,161,Orb1,Orbweaver,10% prairie bottom,1.25,4,1,1,2
+9105,2009,161,Orb2,Orbweaver,20% prairie strips,2.51,15,5,3.68852459,4.68852459
+9106,2009,161,Orb3,Orbweaver,0% prairie,1.24,6,2,2,3
+9107,2009,175,Bass1,Basswood,10% prairie bottom,0.55,3,1,1,2
+9108,2009,175,Bass2,Basswood,10% prairie strips,0.56,3,2,1.8,2.8
+9109,2009,175,Bass3,Basswood,20% prairie strips,0.57,7,3,3,4
+9110,2009,175,Bass4,Basswood,20% prairie strips,0.61,5,2,1.470588235,2.470588235
+9111,2009,175,Bass5,Basswood,10% prairie strips,1.31,3,1,1,2
+9112,2009,175,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+9113,2009,175,Int1,Interim,10% prairie strips,3.1,21,6,3.705882353,4.705882353
+9114,2009,175,Int2,Interim,10% prairie bottom,3.24,25,5,2.022653722,3.022653722
+9115,2009,175,Int3,Interim,0% prairie,0.61,4,4,4,5
+9116,2009,175,Orb1,Orbweaver,10% prairie bottom,1.25,3,1,1,2
+10001,2010,137,Bass1,Basswood,10% prairie bottom,0.55,1,1,1,2
+10002,2010,137,Bass2,Basswood,10% prairie strips,0.56,8,6,5.333333333,6.333333333
+10003,2010,137,Bass3,Basswood,20% prairie strips,0.57,2,1,1,2
+10004,2010,137,Bass4,Basswood,20% prairie strips,0.61,4,2,1.8,2.8
+10005,2010,137,Bass5,Basswood,10% prairie strips,1.31,1,1,1,2
+10006,2010,137,Bass6,Basswood,0% prairie,0.81,9,2,1.246153846,2.246153846
+10007,2010,139,Int1,Interim,10% prairie strips,3.1,11,6,4.84,5.84
+10008,2010,139,Int2,Interim,10% prairie bottom,3.24,4,3,3,4
+10009,2010,139,Int3,Interim,0% prairie,0.61,3,2,1.8,2.8
+10010,2010,139,Orb2,Orbweaver,20% prairie strips,2.51,13,4,3.130434783,4.130434783
+10011,2010,139,Orb3,Orbweaver,0% prairie,1.24,2,2,2,3
+10012,2010,140,Int1,Interim,10% prairie strips,3.1,8,6,4.571428571,5.571428571
+10013,2010,140,Int2,Interim,10% prairie bottom,3.24,11,6,3.333333333,4.333333333
+10014,2010,140,Int3,Interim,0% prairie,0.61,1,1,1,2
+10015,2010,140,Orb1,Orbweaver,10% prairie bottom,1.25,6,4,3,4
+10016,2010,140,Orb2,Orbweaver,20% prairie strips,2.51,15,6,3.266666667,4.266666667
+10017,2010,140,Orb3,Orbweaver,0% prairie,1.24,3,2,1.8,2.8
+10018,2010,145,Bass1,Basswood,10% prairie bottom,0.55,0,0,0,1
+10019,2010,145,Bass2,Basswood,10% prairie strips,0.56,1,1,1,2
+10020,2010,145,Bass3,Basswood,20% prairie strips,0.57,0,0,0,1
+10021,2010,145,Bass4,Basswood,20% prairie strips,0.61,1,1,1,2
+10022,2010,145,Bass5,Basswood,10% prairie strips,1.31,3,2,2,3
+10023,2010,145,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+10024,2010,145,Orb1,Orbweaver,10% prairie bottom,1.25,5,2,1.923076923,2.923076923
+10025,2010,145,Orb2,Orbweaver,20% prairie strips,2.51,7,4,2.578947368,3.578947368
+10026,2010,145,Orb3,Orbweaver,0% prairie,1.24,6,2,1.384615385,2.384615385
+10027,2010,147,Bass1,Basswood,10% prairie bottom,0.55,4,2,2,3
+10028,2010,147,Bass2,Basswood,10% prairie strips,0.56,3,2,1.8,2.8
+10029,2010,147,Bass3,Basswood,20% prairie strips,0.57,1,1,1,2
+10030,2010,147,Bass4,Basswood,20% prairie strips,0.61,1,1,1,2
+10031,2010,147,Bass5,Basswood,10% prairie strips,1.31,6,4,3.6,4.6
+10032,2010,147,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+10033,2010,147,Int1,Interim,10% prairie strips,3.1,7,5,4.454545455,5.454545455
+10034,2010,147,Int2,Interim,10% prairie bottom,3.24,7,6,5.444444444,6.444444444
+10035,2010,147,Int3,Interim,0% prairie,0.61,4,3,2,3
+10036,2010,147,Orb1,Orbweaver,10% prairie bottom,1.25,3,2,1.8,2.8
+10037,2010,147,Orb2,Orbweaver,20% prairie strips,2.51,5,3,2.272727273,3.272727273
+10038,2010,147,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+10039,2010,148,Bass1,Basswood,10% prairie bottom,0.55,3,2,1.8,2.8
+10040,2010,148,Bass2,Basswood,10% prairie strips,0.56,1,1,1,2
+10041,2010,148,Bass3,Basswood,20% prairie strips,0.57,0,0,0,1
+10042,2010,148,Bass4,Basswood,20% prairie strips,0.61,0,0,0,1
+10043,2010,148,Bass5,Basswood,10% prairie strips,1.31,4,3,2.666666667,3.666666667
+10044,2010,148,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+10045,2010,148,Int1,Interim,10% prairie strips,3.1,9,6,4.764705882,5.764705882
+10046,2010,148,Int2,Interim,10% prairie bottom,3.24,8,6,5.333333333,6.333333333
+10047,2010,148,Int3,Interim,0% prairie,0.61,6,2,1.384615385,2.384615385
+10048,2010,148,Orb1,Orbweaver,10% prairie bottom,1.25,2,2,2,3
+10049,2010,148,Orb2,Orbweaver,20% prairie strips,2.51,9,5,4.263157895,5.263157895
+10050,2010,148,Orb3,Orbweaver,0% prairie,1.24,5,4,3.571428571,4.571428571
+10051,2010,151,Bass1,Basswood,10% prairie bottom,0.55,0,0,0,1
+10052,2010,151,Bass2,Basswood,10% prairie strips,0.56,0,0,0,1
+10053,2010,151,Bass3,Basswood,20% prairie strips,0.57,0,0,0,1
+10054,2010,151,Bass4,Basswood,20% prairie strips,0.61,3,3,3,4
+10055,2010,151,Bass5,Basswood,10% prairie strips,1.31,7,5,4.454545455,5.454545455
+10056,2010,151,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+10057,2010,151,Int1,Interim,10% prairie strips,3.1,6,3,2.571428571,3.571428571
+10058,2010,151,Int2,Interim,10% prairie bottom,3.24,6,4,2.666666667,3.666666667
+10059,2010,151,Int3,Interim,0% prairie,0.61,2,2,2,3
+10060,2010,151,Orb1,Orbweaver,10% prairie bottom,1.25,3,3,3,4
+10061,2010,151,Orb2,Orbweaver,20% prairie strips,2.51,8,5,3.769230769,4.769230769
+10062,2010,151,Orb3,Orbweaver,0% prairie,1.24,2,2,2,3
+10063,2010,152,Bass1,Basswood,10% prairie bottom,0.55,1,1,1,2
+10064,2010,152,Bass2,Basswood,10% prairie strips,0.56,1,1,1,2
+10065,2010,152,Bass3,Basswood,20% prairie strips,0.57,1,1,1,2
+10066,2010,152,Bass4,Basswood,20% prairie strips,0.61,3,2,1.8,2.8
+10067,2010,152,Bass5,Basswood,10% prairie strips,1.31,4,3,2.666666667,3.666666667
+10068,2010,152,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+10069,2010,152,Int1,Interim,10% prairie strips,3.1,15,9,7.538461538,8.538461538
+10070,2010,152,Int2,Interim,10% prairie bottom,3.24,13,8,7.363636364,8.363636364
+10071,2010,152,Int3,Interim,0% prairie,0.61,3,1,1,2
+10072,2010,152,Orb1,Orbweaver,10% prairie bottom,1.25,1,1,1,2
+10073,2010,152,Orb2,Orbweaver,20% prairie strips,2.51,2,2,2,3
+10074,2010,152,Orb3,Orbweaver,0% prairie,1.24,1,1,1,2
+10075,2010,154,Bass1,Basswood,10% prairie bottom,0.55,1,1,1,2
+10076,2010,154,Bass2,Basswood,10% prairie strips,0.56,6,3,2.777777778,3.777777778
+10077,2010,154,Bass3,Basswood,20% prairie strips,0.57,0,0,0,1
+10078,2010,154,Bass4,Basswood,20% prairie strips,0.61,3,2,1.8,2.8
+10079,2010,154,Bass5,Basswood,10% prairie strips,1.31,5,4,3.571428571,4.571428571
+10080,2010,154,Bass6,Basswood,0% prairie,0.81,2,1,1,2
+10081,2010,154,Int1,Interim,10% prairie strips,3.1,17,9,7.41025641,8.41025641
+10082,2010,154,Int2,Interim,10% prairie bottom,3.24,7,4,3.6,4.6
+10083,2010,154,Int3,Interim,0% prairie,0.61,4,3,2.666666667,3.666666667
+10084,2010,154,Orb1,Orbweaver,10% prairie bottom,1.25,3,2,1,2
+10085,2010,154,Orb2,Orbweaver,20% prairie strips,2.51,5,5,5,6
+10086,2010,154,Orb3,Orbweaver,0% prairie,1.24,2,1,1,2
+10087,2010,158,Bass1,Basswood,10% prairie bottom,0.55,5,2,1.6,2.6
+10088,2010,158,Bass2,Basswood,10% prairie strips,0.56,5,2,1.923076923,2.923076923
+10089,2010,158,Bass3,Basswood,20% prairie strips,0.57,1,1,1,2
+10090,2010,158,Bass4,Basswood,20% prairie strips,0.61,0,0,0,1
+10091,2010,158,Bass5,Basswood,10% prairie strips,1.31,5,2,1.923076923,2.923076923
+10092,2010,158,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+10093,2010,158,Int1,Interim,10% prairie strips,3.1,15,7,5.121212121,6.121212121
+10094,2010,158,Int2,Interim,10% prairie bottom,3.24,6,4,3.6,4.6
+10095,2010,158,Int3,Interim,0% prairie,0.61,8,6,5.444444444,6.444444444
+10096,2010,158,Orb1,Orbweaver,10% prairie bottom,1.25,14,4,3.266666667,4.266666667
+10097,2010,158,Orb2,Orbweaver,20% prairie strips,2.51,8,3,2.133333333,3.133333333
+10098,2010,158,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+10099,2010,161,Bass1,Basswood,10% prairie bottom,0.55,1,1,1,2
+10100,2010,161,Bass2,Basswood,10% prairie strips,0.56,5,3,2.272727273,3.272727273
+10101,2010,161,Bass3,Basswood,20% prairie strips,0.57,3,3,3,4
+10102,2010,161,Bass4,Basswood,20% prairie strips,0.61,2,2,2,3
+10103,2010,161,Bass5,Basswood,10% prairie strips,1.31,6,3,2.272727273,3.272727273
+10104,2010,161,Bass6,Basswood,0% prairie,0.81,2,1,1,2
+10105,2010,161,Orb1,Orbweaver,10% prairie bottom,1.25,5,4,3.571428571,4.571428571
+10106,2010,166,Bass1,Basswood,10% prairie bottom,0.55,5,3,2.777777778,3.777777778
+10107,2010,166,Bass2,Basswood,10% prairie strips,0.56,2,2,2,3
+10108,2010,166,Bass3,Basswood,20% prairie strips,0.57,2,1,1,2
+10109,2010,166,Bass4,Basswood,20% prairie strips,0.61,1,1,1,2
+10110,2010,166,Bass5,Basswood,10% prairie strips,1.31,6,4,3.571428571,4.571428571
+10111,2010,166,Bass6,Basswood,0% prairie,0.81,1,1,1,2
+10112,2010,166,Int1,Interim,10% prairie strips,3.1,16,8,7.347826087,8.347826087
+10113,2010,166,Int2,Interim,10% prairie bottom,3.24,13,7,5.121212121,6.121212121
+10114,2010,166,Int3,Interim,0% prairie,0.61,2,2,2,3
+10115,2010,170,Bass1,Basswood,10% prairie bottom,0.55,1,1,1,2
+10116,2010,170,Bass2,Basswood,10% prairie strips,0.56,4,2,1.6,2.6
+10117,2010,170,Bass3,Basswood,20% prairie strips,0.57,2,2,2,3
+10118,2010,170,Bass4,Basswood,20% prairie strips,0.61,4,1,1,2
+10119,2010,170,Bass5,Basswood,10% prairie strips,1.31,11,4,2.612903226,3.612903226
+10120,2010,170,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+10121,2010,170,Int1,Interim,10% prairie strips,3.1,7,3,2.882352941,3.882352941
+10122,2010,170,Int2,Interim,10% prairie bottom,3.24,9,5,4.454545455,5.454545455
+10123,2010,170,Int3,Interim,0% prairie,0.61,2,1,1,2
+10124,2010,170,Orb1,Orbweaver,10% prairie bottom,1.25,4,2,1.8,2.8
+10125,2010,170,Orb2,Orbweaver,20% prairie strips,2.51,5,3,2.666666667,3.666666667
+10126,2010,170,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+10127,2010,175,Bass1,Basswood,10% prairie bottom,0.55,2,1,1,2
+10128,2010,175,Bass2,Basswood,10% prairie strips,0.56,2,1,1,2
+10129,2010,175,Bass3,Basswood,20% prairie strips,0.57,5,4,3.571428571,4.571428571
+10130,2010,175,Bass4,Basswood,20% prairie strips,0.61,1,1,1,2
+10131,2010,175,Bass5,Basswood,10% prairie strips,1.31,9,4,3.555555556,4.555555556
+10132,2010,175,Bass6,Basswood,0% prairie,0.81,1,1,1,2
+10133,2010,175,Int1,Interim,10% prairie strips,3.1,12,4,3,4
+10134,2010,175,Int2,Interim,10% prairie bottom,3.24,17,8,7.117647059,8.117647059
+10135,2010,175,Int3,Interim,0% prairie,0.61,0,0,0,1
+10136,2010,175,Orb1,Orbweaver,10% prairie bottom,1.25,5,3,2,3
+10137,2010,175,Orb2,Orbweaver,20% prairie strips,2.51,20,5,3.853333333,4.853333333
+10138,2010,175,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+10139,2010,176,Bass1,Basswood,10% prairie bottom,0.55,1,1,1,2
+10140,2010,176,Bass2,Basswood,10% prairie strips,0.56,3,2,1.8,2.8
+10141,2010,176,Bass3,Basswood,20% prairie strips,0.57,2,1,1,2
+10142,2010,176,Bass4,Basswood,20% prairie strips,0.61,6,3,2,3
+10143,2010,176,Bass5,Basswood,10% prairie strips,1.31,11,5,3.903225806,4.903225806
+10144,2010,176,Bass6,Basswood,0% prairie,0.81,5,2,1.8,2.8
+10145,2010,180,Bass1,Basswood,10% prairie bottom,0.55,3,2,1.8,2.8
+10146,2010,180,Bass2,Basswood,10% prairie strips,0.56,0,0,0,1
+10147,2010,180,Bass3,Basswood,20% prairie strips,0.57,8,7,6.4,7.4
+10148,2010,180,Bass4,Basswood,20% prairie strips,0.61,3,3,3,4
+10149,2010,180,Bass5,Basswood,10% prairie strips,1.31,3,2,1.8,2.8
+10150,2010,180,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+10151,2010,180,Orb1,Orbweaver,10% prairie bottom,1.25,5,2,2,3
+10152,2010,180,Orb2,Orbweaver,20% prairie strips,2.51,10,5,4.166666667,5.166666667
+10153,2010,180,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+10154,2010,181,Bass1,Basswood,10% prairie bottom,0.55,0,0,0,1
+10155,2010,181,Bass2,Basswood,10% prairie strips,0.56,3,2,2,3
+10156,2010,181,Bass3,Basswood,20% prairie strips,0.57,8,3,2.571428571,3.571428571
+10157,2010,181,Bass4,Basswood,20% prairie strips,0.61,6,4,3.6,4.6
+10158,2010,181,Bass5,Basswood,10% prairie strips,1.31,5,3,2.272727273,3.272727273
+10159,2010,181,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+10160,2010,181,Int1,Interim,10% prairie strips,3.1,11,4,2.612903226,3.612903226
+10161,2010,181,Int2,Interim,10% prairie bottom,3.24,6,4,4,5
+10162,2010,181,Int3,Interim,0% prairie,0.61,1,1,1,2
+10163,2010,181,Orb1,Orbweaver,10% prairie bottom,1.25,3,2,1.8,2.8
+10164,2010,181,Orb2,Orbweaver,20% prairie strips,2.51,19,6,4.813333333,5.813333333
+10165,2010,181,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+10166,2010,182,Bass1,Basswood,10% prairie bottom,0.55,2,1,1,2
+10167,2010,182,Bass2,Basswood,10% prairie strips,0.56,1,1,1,2
+10168,2010,182,Bass3,Basswood,20% prairie strips,0.57,3,3,1,2
+10169,2010,182,Bass4,Basswood,20% prairie strips,0.61,3,2,1.8,2.8
+10170,2010,182,Bass5,Basswood,10% prairie strips,1.31,7,4,3.769230769,4.769230769
+10171,2010,182,Bass6,Basswood,0% prairie,0.81,2,1,1,2
+10172,2010,182,Orb1,Orbweaver,10% prairie bottom,1.25,7,4,3.571428571,4.571428571
+10173,2010,182,Orb2,Orbweaver,20% prairie strips,2.51,10,5,3.846153846,4.846153846
+10174,2010,182,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+10175,2010,187,Bass1,Basswood,10% prairie bottom,0.55,0,0,0,1
+10176,2010,187,Bass2,Basswood,10% prairie strips,0.56,6,3,2.571428571,3.571428571
+10177,2010,187,Bass3,Basswood,20% prairie strips,0.57,1,1,1,2
+10178,2010,187,Bass4,Basswood,20% prairie strips,0.61,2,2,2,3
+10179,2010,187,Bass5,Basswood,10% prairie strips,1.31,9,4,2.909090909,3.909090909
+10180,2010,187,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+10181,2010,187,Int1,Interim,10% prairie strips,3.1,9,5,3.52173913,4.52173913
+10182,2010,187,Int2,Interim,10% prairie bottom,3.24,5,3,2.777777778,3.777777778
+10183,2010,187,Int3,Interim,0% prairie,0.61,0,0,0,1
+10184,2010,187,Orb1,Orbweaver,10% prairie bottom,1.25,8,2,1.324324324,2.324324324
+10185,2010,187,Orb2,Orbweaver,20% prairie strips,2.51,16,7,5.121212121,6.121212121
+10186,2010,187,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+10187,2010,188,Orb1,Orbweaver,10% prairie bottom,1.25,9,6,3.769230769,4.769230769
+10188,2010,188,Orb2,Orbweaver,20% prairie strips,2.51,23,8,5.444444444,6.444444444
+10189,2010,188,Orb3,Orbweaver,0% prairie,1.24,1,1,1,2
+10190,2010,190,Bass1,Basswood,10% prairie bottom,0.55,3,2,1.8,2.8
+10191,2010,190,Bass2,Basswood,10% prairie strips,0.56,2,1,1,2
+10192,2010,190,Bass3,Basswood,20% prairie strips,0.57,2,1,1,2
+10193,2010,190,Bass4,Basswood,20% prairie strips,0.61,4,1,1,2
+10194,2010,190,Bass5,Basswood,10% prairie strips,1.31,5,3,2.666666667,3.666666667
+10195,2010,190,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+10196,2010,191,Int1,Interim,10% prairie strips,3.1,10,6,5.4,6.4
+10197,2010,191,Int2,Interim,10% prairie bottom,3.24,8,5,4.571428571,5.571428571
+10198,2010,191,Int3,Interim,0% prairie,0.61,6,3,2.777777778,3.777777778
+10199,2010,193,Orb1,Orbweaver,10% prairie bottom,1.25,6,3,2.272727273,3.272727273
+10200,2010,193,Orb2,Orbweaver,20% prairie strips,2.51,18,6,5.538461538,6.538461538
+10201,2010,193,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+10202,2010,194,Bass1,Basswood,10% prairie bottom,0.55,0,0,0,1
+10203,2010,194,Bass2,Basswood,10% prairie strips,0.56,5,2,1,2
+10204,2010,194,Bass3,Basswood,20% prairie strips,0.57,2,1,1,2
+10205,2010,194,Bass4,Basswood,20% prairie strips,0.61,5,2,1,2
+10206,2010,194,Bass5,Basswood,10% prairie strips,1.31,10,5,3.52173913,4.52173913
+10207,2010,194,Bass6,Basswood,0% prairie,0.81,4,3,2,3
+10208,2010,194,Int1,Interim,10% prairie strips,3.1,8,3,3,4
+10209,2010,194,Int2,Interim,10% prairie bottom,3.24,12,7,5.538461538,6.538461538
+10210,2010,194,Int3,Interim,0% prairie,0.61,5,2,1.470588235,2.470588235
+10211,2010,195,Bass1,Basswood,10% prairie bottom,0.55,0,0,0,1
+10212,2010,195,Bass2,Basswood,10% prairie strips,0.56,3,2,2,3
+10213,2010,195,Bass3,Basswood,20% prairie strips,0.57,4,3,2,3
+10214,2010,195,Bass4,Basswood,20% prairie strips,0.61,6,2,2,3
+10215,2010,195,Bass5,Basswood,10% prairie strips,1.31,9,3,2.882352941,3.882352941
+10216,2010,195,Bass6,Basswood,0% prairie,0.81,1,1,1,2
+10217,2010,195,Orb1,Orbweaver,10% prairie bottom,1.25,10,6,5.4,6.4
+10218,2010,195,Orb2,Orbweaver,20% prairie strips,2.51,17,6,4.083333333,5.083333333
+10219,2010,195,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+10220,2010,202,Bass1,Basswood,10% prairie bottom,0.55,4,2,1.8,2.8
+10221,2010,202,Bass2,Basswood,10% prairie strips,0.56,1,1,1,2
+10222,2010,202,Bass3,Basswood,20% prairie strips,0.57,5,3,2.666666667,3.666666667
+10223,2010,202,Bass4,Basswood,20% prairie strips,0.61,3,2,2,3
+10224,2010,202,Bass5,Basswood,10% prairie strips,1.31,9,3,2.571428571,3.571428571
+10225,2010,202,Bass6,Basswood,0% prairie,0.81,3,2,2,3
+10226,2010,202,Int1,Interim,10% prairie strips,3.1,11,5,3.52173913,4.52173913
+10227,2010,202,Int2,Interim,10% prairie bottom,3.24,10,4,2.076923077,3.076923077
+10228,2010,202,Int3,Interim,0% prairie,0.61,0,0,0,1
+10229,2010,202,Orb1,Orbweaver,10% prairie bottom,1.25,0,0,0,1
+10230,2010,202,Orb2,Orbweaver,20% prairie strips,2.51,11,5,4,5
+10232,2010,207,Int1,Interim,10% prairie strips,3.1,14,4,3.072727273,4.072727273
+10233,2010,207,Int2,Interim,10% prairie bottom,3.24,14,6,2.813953488,3.813953488
+10234,2010,207,Int3,Interim,0% prairie,0.61,2,2,2,3
+10235,2010,207,Orb1,Orbweaver,10% prairie bottom,1.25,4,2,1,2
+10236,2010,207,Orb2,Orbweaver,20% prairie strips,2.51,19,9,7.529411765,8.529411765
+10237,2010,207,Orb3,Orbweaver,0% prairie,1.24,2,2,2,3
+10238,2010,208,Int1,Interim,10% prairie strips,3.1,6,3,2.571428571,3.571428571
+10239,2010,208,Int2,Interim,10% prairie bottom,3.24,13,4,2.612903226,3.612903226
+10240,2010,208,Int3,Interim,0% prairie,0.61,1,1,1,2
+10241,2010,209,Int1,Interim,10% prairie strips,3.1,11,5,4,5
+10242,2010,209,Int2,Interim,10% prairie bottom,3.24,11,6,4.172413793,5.172413793
+10243,2010,209,Int3,Interim,0% prairie,0.61,7,2,1.324324324,2.324324324
+11001,2011,131,Bass1,Basswood,10% prairie bottom,0.55,2,2,2,3
+11002,2011,131,Bass2,Basswood,10% prairie strips,0.56,7,3,2.882352941,3.882352941
+11003,2011,131,Int1,Interim,10% prairie strips,3.1,12,4,3.52173913,4.52173913
+11004,2011,131,Int2,Interim,10% prairie bottom,3.24,13,6,5,6
+11005,2011,131,Int3,Interim,0% prairie,0.61,0,0,0,1
+11006,2011,131,Orb1,Orbweaver,10% prairie bottom,1.25,2,2,1,2
+11007,2011,131,Orb2,Orbweaver,20% prairie strips,2.51,6,4,3,4
+11008,2011,131,Orb3,Orbweaver,0% prairie,1.24,8,3,2.333333333,3.333333333
+11009,2011,139,Bass1,Basswood,10% prairie bottom,0.55,2,2,1,2
+11010,2011,139,Bass2,Basswood,10% prairie strips,0.56,0,0,0,1
+11011,2011,139,Bass3,Basswood,20% prairie strips,0.57,2,2,1,2
+11012,2011,139,Bass4,Basswood,20% prairie strips,0.61,1,1,1,2
+11013,2011,139,Bass5,Basswood,10% prairie strips,1.31,3,2,2,3
+11014,2011,139,Bass6,Basswood,0% prairie,0.81,2,2,2,3
+11015,2011,139,Int1,Interim,10% prairie strips,3.1,7,5,3.6,4.6
+11016,2011,139,Int2,Interim,10% prairie bottom,3.24,6,5,4.5,5.5
+11017,2011,139,Int3,Interim,0% prairie,0.61,2,1,1,2
+11018,2011,139,Orb1,Orbweaver,10% prairie bottom,1.25,5,3,2.666666667,3.666666667
+11019,2011,140,Bass1,Basswood,10% prairie bottom,0.55,4,2,1,2
+11020,2011,140,Bass2,Basswood,10% prairie strips,0.56,1,1,1,2
+11021,2011,140,Bass3,Basswood,20% prairie strips,0.57,6,3,2.272727273,3.272727273
+11022,2011,140,Bass4,Basswood,20% prairie strips,0.61,1,1,1,2
+11023,2011,140,Orb1,Orbweaver,10% prairie bottom,1.25,7,4,3.266666667,4.266666667
+11024,2011,140,Orb2,Orbweaver,20% prairie strips,2.51,5,4,3.571428571,4.571428571
+11025,2011,140,Orb3,Orbweaver,0% prairie,1.24,2,1,1,2
+11026,2011,143,Bass1,Basswood,10% prairie bottom,0.55,3,2,1,2
+11027,2011,143,Bass2,Basswood,10% prairie strips,0.56,2,2,2,3
+11028,2011,143,Bass3,Basswood,20% prairie strips,0.57,3,3,2,3
+11029,2011,143,Bass4,Basswood,20% prairie strips,0.61,13,4,2.315068493,3.315068493
+11030,2011,143,Bass5,Basswood,10% prairie strips,1.31,3,2,1.8,2.8
+11031,2011,143,Bass6,Basswood,0% prairie,0.81,1,1,1,2
+11032,2011,143,Int1,Interim,10% prairie strips,3.1,9,4,3.266666667,4.266666667
+11033,2011,143,Int2,Interim,10% prairie bottom,3.24,11,5,4.263157895,5.263157895
+11034,2011,143,Int3,Interim,0% prairie,0.61,3,2,1.8,2.8
+11035,2011,143,Orb1,Orbweaver,10% prairie bottom,1.25,4,3,2.666666667,3.666666667
+11036,2011,143,Orb2,Orbweaver,20% prairie strips,2.51,10,4,2.133333333,3.133333333
+11037,2011,143,Orb3,Orbweaver,0% prairie,1.24,5,4,3.571428571,4.571428571
+11038,2011,144,Bass1,Basswood,10% prairie bottom,0.55,5,2,1.923076923,2.923076923
+11039,2011,144,Bass2,Basswood,10% prairie strips,0.56,2,1,1,2
+11040,2011,144,Bass3,Basswood,20% prairie strips,0.57,2,2,1,2
+11041,2011,144,Bass4,Basswood,20% prairie strips,0.61,1,1,1,2
+11042,2011,144,Bass5,Basswood,10% prairie strips,1.31,2,2,2,3
+11043,2011,144,Bass6,Basswood,0% prairie,0.81,2,1,1,2
+11044,2011,144,Int1,Interim,10% prairie strips,3.1,7,4,2.571428571,3.571428571
+11045,2011,144,Int2,Interim,10% prairie bottom,3.24,5,3,2.777777778,3.777777778
+11046,2011,144,Int3,Interim,0% prairie,0.61,7,3,1.384615385,2.384615385
+11047,2011,144,Orb1,Orbweaver,10% prairie bottom,1.25,4,3,3,4
+11048,2011,144,Orb2,Orbweaver,20% prairie strips,2.51,10,4,2.941176471,3.941176471
+11049,2011,144,Orb3,Orbweaver,0% prairie,1.24,3,3,3,4
+11050,2011,147,Bass1,Basswood,10% prairie bottom,0.55,1,1,1,2
+11051,2011,147,Bass2,Basswood,10% prairie strips,0.56,1,1,1,2
+11052,2011,147,Bass3,Basswood,20% prairie strips,0.57,1,1,1,2
+11053,2011,147,Bass4,Basswood,20% prairie strips,0.61,1,1,1,2
+11054,2011,147,Bass5,Basswood,10% prairie strips,1.31,5,1,1,2
+11055,2011,147,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+11056,2011,147,Int1,Interim,10% prairie strips,3.1,7,3,2.571428571,3.571428571
+11057,2011,147,Int2,Interim,10% prairie bottom,3.24,7,3,2.571428571,3.571428571
+11058,2011,147,Int3,Interim,0% prairie,0.61,3,1,1,2
+11059,2011,147,Orb1,Orbweaver,10% prairie bottom,1.25,6,4,3.6,4.6
+11060,2011,147,Orb2,Orbweaver,20% prairie strips,2.51,7,4,2.571428571,3.571428571
+11061,2011,147,Orb3,Orbweaver,0% prairie,1.24,1,1,1,2
+11062,2011,152,Bass1,Basswood,10% prairie bottom,0.55,2,2,2,3
+11063,2011,152,Bass2,Basswood,10% prairie strips,0.56,2,1,1,2
+11064,2011,152,Bass3,Basswood,20% prairie strips,0.57,2,1,1,2
+11065,2011,152,Bass4,Basswood,20% prairie strips,0.61,3,2,1.8,2.8
+11066,2011,152,Bass5,Basswood,10% prairie strips,1.31,3,2,1.8,2.8
+11067,2011,152,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+11068,2011,152,Int1,Interim,10% prairie strips,3.1,13,6,4.333333333,5.333333333
+11069,2011,152,Int2,Interim,10% prairie bottom,3.24,4,3,2.666666667,3.666666667
+11070,2011,152,Int3,Interim,0% prairie,0.61,7,3,2.333333333,3.333333333
+11071,2011,152,Orb1,Orbweaver,10% prairie bottom,1.25,10,7,4.545454545,5.545454545
+11072,2011,152,Orb2,Orbweaver,20% prairie strips,2.51,4,2,1.6,2.6
+11073,2011,152,Orb3,Orbweaver,0% prairie,1.24,2,2,1,2
+11074,2011,155,Bass1,Basswood,10% prairie bottom,0.55,3,2,1.8,2.8
+11075,2011,155,Bass2,Basswood,10% prairie strips,0.56,5,3,1.6,2.6
+11076,2011,155,Bass3,Basswood,20% prairie strips,0.57,0,0,0,1
+11077,2011,155,Bass4,Basswood,20% prairie strips,0.61,6,4,3.571428571,4.571428571
+11078,2011,155,Bass5,Basswood,10% prairie strips,1.31,3,2,1.8,2.8
+11079,2011,155,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+11080,2011,157,Bass1,Basswood,10% prairie bottom,0.55,5,3,2,3
+11081,2011,157,Bass2,Basswood,10% prairie strips,0.56,1,1,1,2
+11082,2011,157,Bass3,Basswood,20% prairie strips,0.57,2,1,1,2
+11083,2011,157,Bass4,Basswood,20% prairie strips,0.61,0,0,0,1
+11084,2011,157,Bass5,Basswood,10% prairie strips,1.31,1,1,1,2
+11085,2011,157,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+11086,2011,157,Int1,Interim,10% prairie strips,3.1,16,6,4.129032258,5.129032258
+11087,2011,157,Int2,Interim,10% prairie bottom,3.24,8,4,2.909090909,3.909090909
+11088,2011,157,Int3,Interim,0% prairie,0.61,2,1,1,2
+11089,2011,157,Orb1,Orbweaver,10% prairie bottom,1.25,8,4,2.909090909,3.909090909
+11090,2011,157,Orb2,Orbweaver,20% prairie strips,2.51,6,4,3.6,4.6
+11091,2011,157,Orb3,Orbweaver,0% prairie,1.24,1,1,1,2
+11092,2011,158,Int1,Interim,10% prairie strips,3.1,7,4,3,4
+11093,2011,158,Int2,Interim,10% prairie bottom,3.24,9,5,4.5,5.5
+11094,2011,158,Int3,Interim,0% prairie,0.61,7,2,1.689655172,2.689655172
+11095,2011,158,Orb1,Orbweaver,10% prairie bottom,1.25,4,2,1.8,2.8
+11096,2011,158,Orb2,Orbweaver,20% prairie strips,2.51,6,4,3.6,4.6
+11097,2011,158,Orb3,Orbweaver,0% prairie,1.24,4,3,1.8,2.8
+11098,2011,167,Bass1,Basswood,10% prairie bottom,0.55,0,0,0,1
+11099,2011,167,Bass2,Basswood,10% prairie strips,0.56,2,2,2,3
+11100,2011,167,Bass3,Basswood,20% prairie strips,0.57,4,3,2.666666667,3.666666667
+11101,2011,167,Bass4,Basswood,20% prairie strips,0.61,1,1,1,2
+11102,2011,167,Bass5,Basswood,10% prairie strips,1.31,1,1,1,2
+11103,2011,167,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+11104,2011,167,Bass7,Basswood,100% prairie,0.49,0,0,0,1
+11105,2011,167,Int1,Interim,10% prairie strips,3.1,8,4,2.909090909,3.909090909
+11106,2011,167,Int2,Interim,10% prairie bottom,3.24,14,7,3.379310345,4.379310345
+11107,2011,167,Int3,Interim,0% prairie,0.61,1,1,1,2
+11108,2011,167,Int4,Interim,100% prairie,1.29,2,1,1,2
+11109,2011,167,Orb1,Orbweaver,10% prairie bottom,1.25,8,4,3.555555556,4.555555556
+11110,2011,167,Orb2,Orbweaver,20% prairie strips,2.51,7,4,3.266666667,4.266666667
+11111,2011,167,Orb3,Orbweaver,0% prairie,1.24,6,3,2.777777778,3.777777778
+11112,2011,167,TV,Orbweaver,100% prairie,1.12,2,1,1,2
+11113,2011,169,Int1,Interim,10% prairie strips,3.1,17,6,2.979381443,3.979381443
+11114,2011,169,Int2,Interim,10% prairie bottom,3.24,21,8,5.444444444,6.444444444
+11115,2011,169,Int3,Interim,0% prairie,0.61,9,3,1.975609756,2.975609756
+11116,2011,169,Int4,Interim,100% prairie,1.29,3,1,1,2
+11117,2011,169,Orb1,Orbweaver,10% prairie bottom,1.25,3,2,1.8,2.8
+11118,2011,169,Orb2,Orbweaver,20% prairie strips,2.51,13,7,5.142857143,6.142857143
+11119,2011,169,Orb3,Orbweaver,0% prairie,1.24,6,4,3.6,4.6
+11120,2011,169,TV,Orbweaver,100% prairie,1.12,2,1,1,2
+11121,2011,175,Bass1,Basswood,10% prairie bottom,0.55,6,3,2,3
+11122,2011,175,Bass2,Basswood,10% prairie strips,0.56,5,3,2.272727273,3.272727273
+11123,2011,175,Bass3,Basswood,20% prairie strips,0.57,2,1,1,2
+11124,2011,175,Bass4,Basswood,20% prairie strips,0.61,1,1,1,2
+11125,2011,175,Bass5,Basswood,10% prairie strips,1.31,4,3,2.666666667,3.666666667
+11126,2011,175,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+11127,2011,175,Bass7,Basswood,100% prairie,0.49,1,1,1,2
+11128,2011,175,Int1,Interim,10% prairie strips,3.1,13,8,6.76,7.76
+11129,2011,175,Int2,Interim,10% prairie bottom,3.24,12,4,3.428571429,4.428571429
+11130,2011,175,Int3,Interim,0% prairie,0.61,5,1,1,2
+11131,2011,175,Int4,Interim,100% prairie,1.29,5,2,1.470588235,2.470588235
+11132,2011,175,Orb1,Orbweaver,10% prairie bottom,1.25,7,6,4.5,5.5
+11133,2011,175,Orb2,Orbweaver,20% prairie strips,2.51,9,5,3.6,4.6
+11134,2011,175,Orb3,Orbweaver,0% prairie,1.24,2,2,2,3
+11135,2011,175,TV,Orbweaver,100% prairie,1.12,2,2,2,3
+11136,2011,179,Bass1,Basswood,10% prairie bottom,0.55,2,2,2,3
+11137,2011,179,Bass2,Basswood,10% prairie strips,0.56,5,3,2.666666667,3.666666667
+11138,2011,179,Bass3,Basswood,20% prairie strips,0.57,9,4,2.612903226,3.612903226
+11139,2011,179,Bass4,Basswood,20% prairie strips,0.61,2,1,1,2
+11140,2011,179,Bass5,Basswood,10% prairie strips,1.31,6,2,2,3
+11141,2011,179,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+11142,2011,179,Bass7,Basswood,100% prairie,0.49,0,0,0,1
+11143,2011,179,Int1,Interim,10% prairie strips,3.1,12,5,3.789473684,4.789473684
+11144,2011,179,Int2,Interim,10% prairie bottom,3.24,12,5,4.5,5.5
+11145,2011,179,Int3,Interim,0% prairie,0.61,7,2,1.324324324,2.324324324
+11146,2011,179,Int4,Interim,100% prairie,1.29,14,5,2.770491803,3.770491803
+11147,2011,179,Orb1,Orbweaver,10% prairie bottom,1.25,5,5,4,5
+11148,2011,179,Orb2,Orbweaver,20% prairie strips,2.51,12,4,3.6,4.6
+11149,2011,179,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+11150,2011,179,TV,Orbweaver,100% prairie,1.12,2,2,2,3
+11151,2011,180,Bass1,Basswood,10% prairie bottom,0.55,5,2,1.923076923,2.923076923
+11152,2011,180,Bass2,Basswood,10% prairie strips,0.56,5,3,2.272727273,3.272727273
+11153,2011,180,Bass3,Basswood,20% prairie strips,0.57,1,1,1,2
+11154,2011,180,Bass4,Basswood,20% prairie strips,0.61,1,1,1,2
+11155,2011,180,Bass5,Basswood,10% prairie strips,1.31,1,1,1,2
+11156,2011,180,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+11157,2011,180,Bass7,Basswood,100% prairie,0.49,3,2,1.8,2.8
+11158,2011,180,Int1,Interim,10% prairie strips,3.1,20,7,4.456790123,5.456790123
+11159,2011,180,Int2,Interim,10% prairie bottom,3.24,15,5,3.68852459,4.68852459
+11160,2011,180,Int3,Interim,0% prairie,0.61,2,1,1,2
+11161,2011,180,Int4,Interim,100% prairie,1.29,4,2,1.6,2.6
+11162,2011,180,Orb1,Orbweaver,10% prairie bottom,1.25,5,3,2.777777778,3.777777778
+11163,2011,180,Orb2,Orbweaver,20% prairie strips,2.51,15,5,3.813559322,4.813559322
+11164,2011,180,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+11165,2011,180,TV,Orbweaver,100% prairie,1.12,4,2,2,3
+11166,2011,182,Bass1,Basswood,10% prairie bottom,0.55,6,5,4.5,5.5
+11167,2011,182,Bass2,Basswood,10% prairie strips,0.56,4,2,1.8,2.8
+11168,2011,182,Bass3,Basswood,20% prairie strips,0.57,3,2,1.8,2.8
+11169,2011,182,Bass4,Basswood,20% prairie strips,0.61,8,5,3.769230769,4.769230769
+11170,2011,182,Bass5,Basswood,10% prairie strips,1.31,4,3,2.666666667,3.666666667
+11171,2011,182,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+11172,2011,182,Bass7,Basswood,100% prairie,0.49,0,0,0,1
+11173,2011,182,Int1,Interim,10% prairie strips,3.1,16,6,4.12195122,5.12195122
+11174,2011,182,Int2,Interim,10% prairie bottom,3.24,9,4,3,4
+11175,2011,182,Int3,Interim,0% prairie,0.61,4,2,1,2
+11176,2011,182,Int4,Interim,100% prairie,1.29,7,3,2,3
+11177,2011,182,Orb1,Orbweaver,10% prairie bottom,1.25,11,5,4.545454545,5.545454545
+11178,2011,182,Orb2,Orbweaver,20% prairie strips,2.51,13,4,2.482758621,3.482758621
+11179,2011,182,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+11180,2011,182,TV,Orbweaver,100% prairie,1.12,4,2,1.8,2.8
+11181,2011,186,Bass1,Basswood,10% prairie bottom,0.55,0,0,0,1
+11182,2011,186,Bass2,Basswood,10% prairie strips,0.56,2,2,2,3
+11183,2011,186,Bass3,Basswood,20% prairie strips,0.57,2,2,2,3
+11184,2011,186,Bass4,Basswood,20% prairie strips,0.61,3,3,3,4
+11185,2011,186,Bass5,Basswood,10% prairie strips,1.31,7,3,2.578947368,3.578947368
+11186,2011,186,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+11187,2011,186,Bass7,Basswood,100% prairie,0.49,3,1,1,2
+11188,2011,186,Int1,Interim,10% prairie strips,3.1,11,6,4.172413793,5.172413793
+11189,2011,186,Int2,Interim,10% prairie bottom,3.24,19,6,1.939597315,2.939597315
+11190,2011,186,Int3,Interim,0% prairie,0.61,4,4,4,5
+11191,2011,186,Int4,Interim,100% prairie,1.29,10,3,1.975609756,2.975609756
+11192,2011,186,Orb1,Orbweaver,10% prairie bottom,1.25,6,3,2.666666667,3.666666667
+11193,2011,186,Orb2,Orbweaver,20% prairie strips,2.51,5,3,2.777777778,3.777777778
+11194,2011,186,Orb3,Orbweaver,0% prairie,1.24,1,1,1,2
+11195,2011,186,TV,Orbweaver,100% prairie,1.12,3,2,1.8,2.8
+11196,2011,193,Bass1,Basswood,10% prairie bottom,0.55,0,0,0,1
+11197,2011,193,Bass2,Basswood,10% prairie strips,0.56,3,1,1,2
+11198,2011,193,Bass3,Basswood,20% prairie strips,0.57,2,2,1,2
+11199,2011,193,Bass4,Basswood,20% prairie strips,0.61,5,3,2.777777778,3.777777778
+11200,2011,193,Bass5,Basswood,10% prairie strips,1.31,3,3,3,4
+11201,2011,193,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+11202,2011,193,Bass7,Basswood,100% prairie,0.49,0,0,0,1
+11203,2011,193,Orb1,Orbweaver,10% prairie bottom,1.25,3,2,1.8,2.8
+11204,2011,193,Orb2,Orbweaver,20% prairie strips,2.51,15,4,3.789473684,4.789473684
+11205,2011,193,Orb3,Orbweaver,0% prairie,1.24,3,1,1,2
+11206,2011,193,TV,Orbweaver,100% prairie,1.12,3,2,2,3
+11207,2011,195,Bass1,Basswood,10% prairie bottom,0.55,1,1,1,2
+11208,2011,195,Bass2,Basswood,10% prairie strips,0.56,2,2,1,2
+11209,2011,195,Bass3,Basswood,20% prairie strips,0.57,0,0,0,1
+11210,2011,195,Bass4,Basswood,20% prairie strips,0.61,3,2,1.8,2.8
+11211,2011,195,Bass5,Basswood,10% prairie strips,1.31,4,2,1.6,2.6
+11212,2011,195,Bass6,Basswood,0% prairie,0.81,3,1,1,2
+11213,2011,195,Bass7,Basswood,100% prairie,0.49,0,0,0,1
+11214,2011,195,Int1,Interim,10% prairie strips,3.1,9,6,5.333333333,6.333333333
+11215,2011,195,Int2,Interim,10% prairie bottom,3.24,6,2,1.384615385,2.384615385
+11216,2011,195,Int3,Interim,0% prairie,0.61,2,2,2,3
+11217,2011,195,Int4,Interim,100% prairie,1.29,8,3,2.333333333,3.333333333
+11218,2011,195,Orb1,Orbweaver,10% prairie bottom,1.25,8,3,2.461538462,3.461538462
+11219,2011,195,Orb2,Orbweaver,20% prairie strips,2.51,13,4,3.448979592,4.448979592
+11220,2011,195,Orb3,Orbweaver,0% prairie,1.24,1,1,1,2
+11221,2011,195,TV,Orbweaver,100% prairie,1.12,3,3,3,4
+11222,2011,196,Bass1,Basswood,10% prairie bottom,0.55,5,2,1.8,2.8
+11223,2011,196,Bass2,Basswood,10% prairie strips,0.56,1,1,1,2
+11224,2011,196,Bass3,Basswood,20% prairie strips,0.57,0,0,0,1
+11225,2011,196,Bass4,Basswood,20% prairie strips,0.61,1,1,1,2
+11226,2011,196,Bass5,Basswood,10% prairie strips,1.31,6,4,2.666666667,3.666666667
+11227,2011,196,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+11228,2011,196,Bass7,Basswood,100% prairie,0.49,2,1,1,2
+11229,2011,196,Int1,Interim,10% prairie strips,3.1,22,6,5.254545455,6.254545455
+11230,2011,196,Int2,Interim,10% prairie bottom,3.24,9,2,1.528301887,2.528301887
+11231,2011,196,Int3,Interim,0% prairie,0.61,4,3,2.666666667,3.666666667
+11232,2011,196,Int4,Interim,100% prairie,1.29,3,1,1,2
+11234,2011,196,Orb2,Orbweaver,20% prairie strips,2.51,10,3,2.793103448,3.793103448
+11235,2011,196,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+11236,2011,196,TV,Orbweaver,100% prairie,1.12,2,2,2,3
+11237,2011,199,Bass1,Basswood,10% prairie bottom,0.55,2,2,2,3
+11238,2011,199,Bass2,Basswood,10% prairie strips,0.56,3,2,1.8,2.8
+11239,2011,199,Bass3,Basswood,20% prairie strips,0.57,0,0,0,1
+11240,2011,199,Bass4,Basswood,20% prairie strips,0.61,0,0,0,1
+11241,2011,199,Bass5,Basswood,10% prairie strips,1.31,8,5,4.571428571,5.571428571
+11242,2011,199,Bass6,Basswood,0% prairie,0.81,1,1,1,2
+11243,2011,199,Bass7,Basswood,100% prairie,0.49,3,1,1,2
+11244,2011,199,Int1,Interim,10% prairie strips,3.1,18,7,3.368421053,4.368421053
+11245,2011,199,Int2,Interim,10% prairie bottom,3.24,10,4,1.923076923,2.923076923
+11246,2011,199,Int3,Interim,0% prairie,0.61,3,2,1.8,2.8
+11247,2011,199,Int4,Interim,100% prairie,1.29,4,1,1,2
+11248,2011,199,Orb1,Orbweaver,10% prairie bottom,1.25,1,1,1,2
+11249,2011,199,Orb2,Orbweaver,20% prairie strips,2.51,9,3,2.793103448,3.793103448
+11250,2011,199,Orb3,Orbweaver,0% prairie,1.24,1,1,1,2
+11251,2011,199,TV,Orbweaver,100% prairie,1.12,1,1,1,2
+11252,2011,200,Bass7,Basswood,100% prairie,0.49,4,3,2.666666667,3.666666667
+11253,2011,200,Orb1,Orbweaver,10% prairie bottom,1.25,10,6,6,7
+11254,2011,200,Orb2,Orbweaver,20% prairie strips,2.51,18,5,4.413793103,5.413793103
+11255,2011,200,Orb3,Orbweaver,0% prairie,1.24,1,1,1,2
+11256,2011,200,TV,Orbweaver,100% prairie,1.12,1,1,1,2
+11257,2011,202,Int1,Interim,10% prairie strips,3.1,15,6,4.666666667,5.666666667
+11258,2011,202,Int2,Interim,10% prairie bottom,3.24,10,5,3.52173913,4.52173913
+11259,2011,202,Int3,Interim,0% prairie,0.61,4,3,3,4
+11260,2011,202,Int4,Interim,100% prairie,1.29,9,5,2.578947368,3.578947368
+11261,2011,202,Orb1,Orbweaver,10% prairie bottom,1.25,3,3,3,4
+11262,2011,202,Orb2,Orbweaver,20% prairie strips,2.51,6,2,2,3
+11263,2011,202,Orb3,Orbweaver,0% prairie,1.24,2,1,1,2
+11264,2011,202,TV,Orbweaver,100% prairie,1.12,3,3,2,3
+11265,2011,206,Bass1,Basswood,10% prairie bottom,0.55,4,2,1.6,2.6
+11266,2011,206,Bass2,Basswood,10% prairie strips,0.56,2,2,2,3
+11267,2011,206,Bass3,Basswood,20% prairie strips,0.57,5,4,3,4
+11268,2011,206,Bass4,Basswood,20% prairie strips,0.61,1,1,1,2
+11269,2011,206,Bass5,Basswood,10% prairie strips,1.31,7,4,3.266666667,4.266666667
+11270,2011,206,Bass6,Basswood,0% prairie,0.81,2,1,1,2
+11271,2011,206,Bass7,Basswood,100% prairie,0.49,2,2,2,3
+11272,2011,206,Int1,Interim,10% prairie strips,3.1,24,4,3.278688525,4.278688525
+11273,2011,206,Int2,Interim,10% prairie bottom,3.24,20,5,4.129032258,5.129032258
+11274,2011,206,Int3,Interim,0% prairie,0.61,0,0,0,1
+11275,2011,206,Int4,Interim,100% prairie,1.29,11,5,3.903225806,4.903225806
+11276,2011,206,Orb2,Orbweaver,20% prairie strips,2.51,9,3,2.314285714,3.314285714
+11277,2011,206,Orb3,Orbweaver,0% prairie,1.24,1,1,1,2
+11278,2011,206,TV,Orbweaver,100% prairie,1.12,2,2,2,3
+11279,2011,207,Bass1,Basswood,10% prairie bottom,0.55,1,1,1,2
+11280,2011,207,Bass2,Basswood,10% prairie strips,0.56,3,3,3,4
+11281,2011,207,Bass3,Basswood,20% prairie strips,0.57,3,2,2,3
+11282,2011,207,Bass4,Basswood,20% prairie strips,0.61,2,2,2,3
+11283,2011,207,Bass5,Basswood,10% prairie strips,1.31,8,4,3.555555556,4.555555556
+11284,2011,207,Bass6,Basswood,0% prairie,0.81,2,1,1,2
+11285,2011,207,Bass7,Basswood,100% prairie,0.49,2,2,2,3
+11286,2011,207,Int1,Interim,10% prairie strips,3.1,33,9,4.805714286,5.805714286
+11287,2011,207,Int2,Interim,10% prairie bottom,3.24,11,6,5,6
+11288,2011,207,Int3,Interim,0% prairie,0.61,6,3,2.777777778,3.777777778
+11289,2011,207,Int4,Interim,100% prairie,1.29,10,4,2.941176471,3.941176471
+11290,2011,207,Orb1,Orbweaver,10% prairie bottom,1.25,4,2,1,2
+11291,2011,207,Orb2,Orbweaver,20% prairie strips,2.51,7,2,2,3
+11292,2011,207,Orb3,Orbweaver,0% prairie,1.24,1,1,1,2
+11293,2011,207,TV,Orbweaver,100% prairie,1.12,1,1,1,2
+11294,2011,208,Bass1,Basswood,10% prairie bottom,0.55,1,1,1,2
+11295,2011,208,Bass2,Basswood,10% prairie strips,0.56,1,1,1,2
+11296,2011,208,Bass3,Basswood,20% prairie strips,0.57,3,2,1.8,2.8
+11297,2011,208,Bass4,Basswood,20% prairie strips,0.61,8,4,3.6,4.6
+11298,2011,208,Bass5,Basswood,10% prairie strips,1.31,10,6,5.555555556,6.555555556
+11300,2011,208,Bass7,Basswood,100% prairie,0.49,2,1,1,2
+11301,2011,208,Int1,Interim,10% prairie strips,3.1,16,4,3.428571429,4.428571429
+11302,2011,208,Int2,Interim,10% prairie bottom,3.24,9,5,4.571428571,5.571428571
+11303,2011,208,Int3,Interim,0% prairie,0.61,6,4,3,4
+11304,2011,208,Int4,Interim,100% prairie,1.29,4,2,1.6,2.6
+11305,2011,208,Orb1,Orbweaver,10% prairie bottom,1.25,7,3,2.666666667,3.666666667
+11306,2011,208,Orb2,Orbweaver,20% prairie strips,2.51,7,2,1.689655172,2.689655172
+11308,2011,208,TV,Orbweaver,100% prairie,1.12,3,2,1.8,2.8
+12001,2012,132,Bass1,Basswood,10% prairie bottom,0.55,0,0,0,1
+12002,2012,132,Bass2,Basswood,10% prairie strips,0.56,1,1,1,2
+12003,2012,132,Bass3,Basswood,20% prairie strips,0.57,1,1,1,2
+12004,2012,132,Bass4,Basswood,20% prairie strips,0.61,5,3,2.777777778,3.777777778
+12005,2012,132,Bass5,Basswood,10% prairie strips,1.31,1,1,1,2
+12006,2012,132,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+12007,2012,132,Bass7,Basswood,100% prairie,0.49,0,0,0,1
+12008,2012,132,Orb1,Orbweaver,10% prairie bottom,1.25,3,2,2,3
+12009,2012,132,Orb2,Orbweaver,20% prairie strips,2.51,14,8,5.827586207,6.827586207
+12010,2012,132,Orb3,Orbweaver,0% prairie,1.24,5,2,1.8,2.8
+12011,2012,132,TV,Orbweaver,100% prairie,1.12,1,1,1,2
+12012,2012,138,Bass1,Basswood,10% prairie bottom,0.55,2,1,1,2
+12013,2012,138,Bass2,Basswood,10% prairie strips,0.56,1,1,1,2
+12015,2012,138,Bass4,Basswood,20% prairie strips,0.61,1,1,1,2
+12016,2012,138,Bass5,Basswood,10% prairie strips,1.31,7,3,2.571428571,3.571428571
+12017,2012,138,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+12018,2012,138,Bass7,Basswood,100% prairie,0.49,3,1,1,2
+12019,2012,138,Int1,Interim,10% prairie strips,3.1,8,4,3.2,4.2
+12020,2012,138,Int2,Interim,10% prairie bottom,3.24,6,4,3.571428571,4.571428571
+12021,2012,138,Int3,Interim,0% prairie,0.61,2,2,1,2
+12022,2012,138,Int4,Interim,100% prairie,1.29,7,5,4.5,5.5
+12023,2012,138,Orb1,Orbweaver,10% prairie bottom,1.25,1,1,1,2
+12024,2012,138,Orb2,Orbweaver,20% prairie strips,2.51,5,3,2.272727273,3.272727273
+12025,2012,138,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+12026,2012,138,TV,Orbweaver,100% prairie,1.12,2,2,2,3
+12027,2012,146,Bass1,Basswood,10% prairie bottom,0.55,1,1,1,2
+12028,2012,146,Bass2,Basswood,10% prairie strips,0.56,1,1,1,2
+12029,2012,146,Bass3,Basswood,20% prairie strips,0.57,7,4,3.769230769,4.769230769
+12030,2012,146,Bass4,Basswood,20% prairie strips,0.61,6,2,2,3
+12031,2012,146,Bass5,Basswood,10% prairie strips,1.31,2,1,1,2
+12032,2012,146,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+12033,2012,146,Bass7,Basswood,100% prairie,0.49,3,2,2,3
+12034,2012,146,Int1,Interim,10% prairie strips,3.1,14,7,6,7
+12035,2012,146,Int2,Interim,10% prairie bottom,3.24,14,6,4.333333333,5.333333333
+12036,2012,146,Int3,Interim,0% prairie,0.61,0,0,0,1
+12037,2012,146,Int4,Interim,100% prairie,1.29,6,4,3,4
+12038,2012,146,Orb1,Orbweaver,10% prairie bottom,1.25,1,1,1,2
+12039,2012,146,Orb2,Orbweaver,20% prairie strips,2.51,7,4,2.578947368,3.578947368
+12040,2012,146,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+12041,2012,146,TV,Orbweaver,100% prairie,1.12,7,3,2.882352941,3.882352941
+12042,2012,153,Bass1,Basswood,10% prairie bottom,0.55,1,1,1,2
+12043,2012,153,Bass2,Basswood,10% prairie strips,0.56,3,2,1.8,2.8
+12044,2012,153,Bass3,Basswood,20% prairie strips,0.57,1,1,1,2
+12045,2012,153,Bass4,Basswood,20% prairie strips,0.61,1,1,1,2
+12046,2012,153,Bass5,Basswood,10% prairie strips,1.31,7,4,3.6,4.6
+12047,2012,153,Bass6,Basswood,0% prairie,0.81,1,1,1,2
+12048,2012,153,Bass7,Basswood,100% prairie,0.49,0,0,0,1
+12049,2012,153,Int1,Interim,10% prairie strips,3.1,18,7,5.452830189,6.452830189
+12050,2012,153,Int2,Interim,10% prairie bottom,3.24,10,5,3.125,4.125
+12051,2012,153,Int3,Interim,0% prairie,0.61,3,1,1,2
+12052,2012,153,Int4,Interim,100% prairie,1.29,9,5,3.52173913,4.52173913
+12053,2012,153,Orb1,Orbweaver,10% prairie bottom,1.25,7,3,2.777777778,3.777777778
+12054,2012,153,Orb2,Orbweaver,20% prairie strips,2.51,9,6,3.857142857,4.857142857
+12055,2012,153,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+12056,2012,153,TV,Orbweaver,100% prairie,1.12,3,2,1.8,2.8
+12057,2012,160,Bass1,Basswood,10% prairie bottom,0.55,2,1,1,2
+12058,2012,160,Bass2,Basswood,10% prairie strips,0.56,2,1,1,2
+12059,2012,160,Bass3,Basswood,20% prairie strips,0.57,1,1,1,2
+12060,2012,160,Bass4,Basswood,20% prairie strips,0.61,0,0,0,1
+12061,2012,160,Bass5,Basswood,10% prairie strips,1.31,4,2,2,3
+12062,2012,160,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+12063,2012,160,Bass7,Basswood,100% prairie,0.49,2,2,2,3
+12064,2012,160,Int1,Interim,10% prairie strips,3.1,15,6,4.9,5.9
+12065,2012,160,Int2,Interim,10% prairie bottom,3.24,8,4,2.578947368,3.578947368
+12066,2012,160,Int3,Interim,0% prairie,0.61,0,0,0,1
+12067,2012,160,Int4,Interim,100% prairie,1.29,6,3,2.571428571,3.571428571
+12068,2012,160,Orb1,Orbweaver,10% prairie bottom,1.25,6,3,2.777777778,3.777777778
+12069,2012,160,Orb2,Orbweaver,20% prairie strips,2.51,14,5,3.6,4.6
+12070,2012,160,Orb3,Orbweaver,0% prairie,1.24,2,1,1,2
+12071,2012,160,TV,Orbweaver,100% prairie,1.12,4,3,1.8,2.8
+12072,2012,176,Bass1,Basswood,10% prairie bottom,0.55,3,2,1.8,2.8
+12073,2012,176,Bass2,Basswood,10% prairie strips,0.56,1,1,1,2
+12074,2012,176,Bass3,Basswood,20% prairie strips,0.57,2,1,1,2
+12075,2012,176,Bass4,Basswood,20% prairie strips,0.61,4,3,2.666666667,3.666666667
+12076,2012,176,Bass5,Basswood,10% prairie strips,1.31,5,2,2,3
+12077,2012,176,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+12078,2012,176,Bass7,Basswood,100% prairie,0.49,3,2,1.8,2.8
+12079,2012,176,Int1,Interim,10% prairie strips,3.1,14,5,3.755555556,4.755555556
+12080,2012,176,Int2,Interim,10% prairie bottom,3.24,8,3,2.882352941,3.882352941
+12081,2012,176,Int3,Interim,0% prairie,0.61,3,1,1,2
+12082,2012,176,Int4,Interim,100% prairie,1.29,6,1,1,2
+12083,2012,176,Orb1,Orbweaver,10% prairie bottom,1.25,8,4,3.6,4.6
+12084,2012,176,Orb2,Orbweaver,20% prairie strips,2.51,8,3,2.666666667,3.666666667
+12085,2012,176,Orb3,Orbweaver,0% prairie,1.24,2,1,1,2
+12086,2012,176,TV,Orbweaver,100% prairie,1.12,5,4,4,5
+12087,2012,179,Int1,Interim,10% prairie strips,3.1,12,4,2.666666667,3.666666667
+12088,2012,179,Int2,Interim,10% prairie bottom,3.24,8,3,2.333333333,3.333333333
+12089,2012,179,Int3,Interim,0% prairie,0.61,2,1,1,2
+12090,2012,179,Int4,Interim,100% prairie,1.29,3,1,1,2
+12091,2012,187,Bass1,Basswood,10% prairie bottom,0.55,0,0,0,1
+12092,2012,187,Bass2,Basswood,10% prairie strips,0.56,0,0,0,1
+12093,2012,187,Bass3,Basswood,20% prairie strips,0.57,3,1,1,2
+12094,2012,187,Bass4,Basswood,20% prairie strips,0.61,7,3,2.272727273,3.272727273
+12095,2012,187,Bass5,Basswood,10% prairie strips,1.31,5,2,2,3
+12096,2012,187,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+12097,2012,187,Bass7,Basswood,100% prairie,0.49,0,0,0,1
+12098,2012,187,Int1,Interim,10% prairie strips,3.1,18,5,3.446808511,4.446808511
+12099,2012,187,Int2,Interim,10% prairie bottom,3.24,8,3,2.666666667,3.666666667
+12100,2012,187,Int3,Interim,0% prairie,0.61,1,1,1,2
+12101,2012,187,Int4,Interim,100% prairie,1.29,8,2,1.96,2.96
+12102,2012,187,Orb1,Orbweaver,10% prairie bottom,1.25,1,1,1,2
+12103,2012,187,Orb2,Orbweaver,20% prairie strips,2.51,11,3,2.666666667,3.666666667
+12104,2012,187,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+12105,2012,187,TV,Orbweaver,100% prairie,1.12,7,4,3.769230769,4.769230769
+12106,2012,193,Bass1,Basswood,10% prairie bottom,0.55,3,2,1.8,2.8
+12107,2012,193,Bass2,Basswood,10% prairie strips,0.56,2,1,1,2
+12108,2012,193,Bass3,Basswood,20% prairie strips,0.57,3,2,1.8,2.8
+12109,2012,193,Bass4,Basswood,20% prairie strips,0.61,9,5,4.454545455,5.454545455
+12110,2012,193,Bass5,Basswood,10% prairie strips,1.31,10,5,4.571428571,5.571428571
+12111,2012,193,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+12112,2012,193,Bass7,Basswood,100% prairie,0.49,6,3,2.571428571,3.571428571
+12113,2012,193,Int1,Interim,10% prairie strips,3.1,13,3,2.086419753,3.086419753
+12114,2012,193,Int2,Interim,10% prairie bottom,3.24,5,3,2.777777778,3.777777778
+12115,2012,193,Int3,Interim,0% prairie,0.61,4,2,1.6,2.6
+12116,2012,193,Int4,Interim,100% prairie,1.29,6,2,1.470588235,2.470588235
+12117,2012,193,Orb1,Orbweaver,10% prairie bottom,1.25,6,4,4,5
+12118,2012,193,Orb2,Orbweaver,20% prairie strips,2.51,10,3,2.631578947,3.631578947
+12119,2012,193,Orb3,Orbweaver,0% prairie,1.24,1,1,1,2
+12120,2012,193,TV,Orbweaver,100% prairie,1.12,1,1,1,2
+12121,2012,199,Bass1,Basswood,10% prairie bottom,0.55,0,0,0,1
+12122,2012,199,Bass2,Basswood,10% prairie strips,0.56,0,0,0,1
+12123,2012,199,Bass3,Basswood,20% prairie strips,0.57,1,1,1,2
+12124,2012,199,Bass4,Basswood,20% prairie strips,0.61,2,1,1,2
+12125,2012,199,Bass5,Basswood,10% prairie strips,1.31,6,3,3,4
+12126,2012,199,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+12127,2012,199,Bass7,Basswood,100% prairie,0.49,4,3,2.666666667,3.666666667
+12128,2012,199,Int1,Interim,10% prairie strips,3.1,7,3,1.814814815,2.814814815
+12129,2012,199,Int2,Interim,10% prairie bottom,3.24,10,5,3.769230769,4.769230769
+12130,2012,199,Int3,Interim,0% prairie,0.61,0,0,0,1
+12131,2012,199,Int4,Interim,100% prairie,1.29,4,2,1.6,2.6
+12132,2012,199,Orb1,Orbweaver,10% prairie bottom,1.25,2,2,2,3
+12133,2012,199,Orb2,Orbweaver,20% prairie strips,2.51,19,3,2.333333333,3.333333333
+12134,2012,199,Orb3,Orbweaver,0% prairie,1.24,2,2,2,3
+12135,2012,199,TV,Orbweaver,100% prairie,1.12,3,2,1.8,2.8
+12136,2012,206,Bass1,Basswood,10% prairie bottom,0.55,2,2,2,3
+12137,2012,206,Bass2,Basswood,10% prairie strips,0.56,1,1,1,2
+12138,2012,206,Bass3,Basswood,20% prairie strips,0.57,1,1,1,2
+12139,2012,206,Bass4,Basswood,20% prairie strips,0.61,4,3,3,4
+12140,2012,206,Bass5,Basswood,10% prairie strips,1.31,1,1,1,2
+12141,2012,206,Bass6,Basswood,0% prairie,0.81,0,0,0,1
+12142,2012,206,Bass7,Basswood,100% prairie,0.49,3,2,1.8,2.8
+12143,2012,206,Int1,Interim,10% prairie strips,3.1,24,4,1.297297297,2.297297297
+12144,2012,206,Int2,Interim,10% prairie bottom,3.24,2,2,2,3
+12145,2012,206,Int3,Interim,0% prairie,0.61,1,1,1,2
+12146,2012,206,Int4,Interim,100% prairie,1.29,2,1,1,2
+12147,2012,206,Orb1,Orbweaver,10% prairie bottom,1.25,5,2,1.8,2.8
+12148,2012,206,Orb2,Orbweaver,20% prairie strips,2.51,8,4,3.2,4.2
+12149,2012,206,Orb3,Orbweaver,0% prairie,1.24,0,0,0,1
+12150,2012,206,TV,Orbweaver,100% prairie,1.12,1,1,1,2
