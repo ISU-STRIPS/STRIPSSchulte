@@ -47,7 +47,7 @@ species observed.
 
 ```{r}
 diversity <- function(x) {
-  div <- vegan::diversity(x, index = "inv")
+  div <- vegan::diversity(x, index = "inv") # Inverse Simpson's Diversity
   div[is.infinite(div)] <- 0
   return(div)
 }
@@ -58,6 +58,6 @@ all_counts %>%
   group_by(survey) %>%
   summarize(abundance = sum(count),
             richness  = sum(count>0),
-            diversity = diversity(count)) # Inverse Simpson's Diversity
+            diversity = diversity(count)) 
 ```
 
