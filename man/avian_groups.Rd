@@ -4,7 +4,7 @@
 \name{avian_groups}
 \alias{avian_groups}
 \title{Avian groups}
-\format{A data.frame with three variables: \code{abbrev},
+\format{A data.frame with 3 variables: \code{abbrev},
 \code{grassland_species}, and \code{species_of_greatest_conservation_need}}
 \usage{
 avian_groups
@@ -12,6 +12,14 @@ avian_groups
 \description{
 Whether a species is a grassland species and whether the species is of
 greatest conservation need.
+}
+\examples{
+library(dplyr)
+with_groups <- avian_common_count \%>\%
+  left_join(avian_groups, by = "abbrev")
+}
+\seealso{
+\code{\link{avian_common_count}}, \code{\link{avian_abbrev}}
 }
 \keyword{datasets}
 

@@ -4,14 +4,18 @@
 \name{avian_community}
 \alias{avian_community}
 \title{Avian community abundance, richness, and diversity}
-\format{A data.frame with 7 variables: \code{survey}, \code{year},
-\code{julian}, \code{watershed}, \code{abundance}, \code{richness}, and
-Simpson's inverse \code{diversity}}
+\format{A data.frame with 4 variables: \code{survey}, \code{abundance},
+\code{richness}, and Simpson's inverse \code{diversity}}
 \usage{
 avian_community
 }
 \description{
 For each survey, abundance, richness, and diversity measurements.
+}
+\examples{
+library(dplyr)
+avian_community \%>\%
+  left_join(avian_surveys, by="survey")
 }
 \keyword{datasets}
 

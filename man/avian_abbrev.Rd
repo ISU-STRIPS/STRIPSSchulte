@@ -3,7 +3,7 @@
 \docType{data}
 \name{avian_abbrev}
 \alias{avian_abbrev}
-\title{Avian codes}
+\title{Avian abbreviations}
 \format{A data.frame with two variables: \code{abbrev} and
 \code{common_name}}
 \usage{
@@ -12,6 +12,14 @@ avian_abbrev
 \description{
 Each species is given a 4 digit character abbreviation This data sets
 provides the common name associated with each abbreviation.
+}
+\examples{
+library(dplyr)
+with_common_name <- avian_common_count \%>\%
+  left_join(avian_abbrev, by="abbrev")
+}
+\seealso{
+\code{\link{avian_common_count}}
 }
 \keyword{datasets}
 
