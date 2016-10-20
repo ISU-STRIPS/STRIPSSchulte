@@ -1,0 +1,63 @@
+---
+title: "Calculating community measures"
+author: "Jarad Niemi"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+Calculate abundance, richness, and diversity from count data. 
+
+## Combine survey and count data
+
+In the situation that some surveys had no birds observed, there will be no
+entry in the `avian_common_count` data set. 
+Thus, we combine this data set with the `avian_surveys` data set to insure that
+all surveys are represented. 
+The following step, which fills in zeros for any species not observed during a
+particular survey, is unnecessary for calculation of abundance, richness, and
+diversity but will likely be helpful for other tasks, e.g. abundance or 
+occupancy modeling. 
+
+```{r load_data}
+library(dplyr)
+library(tidyr)
+library(STRIPSSchulte)
+all_counts <- avian_common_count %>%
+  right_join(avian_surveys, by="survey") %>%     # include all surveys
+  complete(survey, abbrev, fill = list(count=0)) # fill with zero counts
+```
+
+
+
+## Calculate abundance, richness, and diversity
+
+The [vegan](https://cran.r-project.org/web/packages/vegan/index.html) package
+has functionality to calculate Shannon, Simpson, and inverse Simpson measures
+of diversity. 
+For avian populations, we typically use inverse Simpson diversity, but there is
+an issue with defining diversity when no individuals of any species are 
+observed. 
+We propose (perhaps it is already used or there is a different solution) to 
+define inverse Simpson diversity to be 0 when there are no individuals of any 
+species observed. 
+
+```{r}
+diversity <- function(x) {
+  div <- vegan::diversity(x, index = "inv")
+  div[is.infinite(div)] <- 0
+  return(div)
+}
+```
+
+```{r}
+all_counts %>%
+  group_by(survey) %>%
+  summarize(abundance = sum(count),
+            richness  = sum(count>0),
+            diversity = diversity(count)) # Inverse Simpson's Diversity
+```
+
