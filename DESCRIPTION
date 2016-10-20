@@ -12,7 +12,8 @@ Depends:
 Suggests:
     STRIPSMeta,
     dplyr,
-    tidyr
+    tidyr,
+    testthat
 Remotes:
     ISU-STRIPS/STRIPSMeta
 License: GPL-3
