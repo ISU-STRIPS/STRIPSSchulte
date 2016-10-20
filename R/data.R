@@ -7,6 +7,15 @@
 #' \code{common_name}
 "avian_abbrev"
 
+#' Avian community abundance, richness, and diversity
+#'
+#' For each survey, abundance, richness, and diversity measurements.
+#'
+#' @format A data.frame with 7 variables: \code{survey}, \code{year},
+#' \code{julian}, \code{watershed}, \code{abundance}, \code{richness}, and
+#' Simpson's inverse \code{diversity}
+"avian_community"
+
 #' Avian groups
 #'
 #' Whether a species is a grassland species and whether the species is of
