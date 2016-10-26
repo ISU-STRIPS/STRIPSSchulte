@@ -29,8 +29,11 @@
 #' library(dplyr)
 #' library(tidyr)
 #' with_zeros <- avian_common_count %>%
-#'   right_join(avian_surveys, by="survey") %>%     # include all surveys
-#'   complete(survey, abbrev, fill = list(count=0)) # fill with zero counts
+#'   right_join(avian_surveys[,"survey"], by="survey") %>% # include surveys with no observations
+#'   complete(survey, abbrev, fill = list(count=0)) %>%    # fill all missing survey-abbrev combinations with zero counts
+#'   right_join(avian_surveys, by="survey")                # include survey date and watershed info
+
+head(with_zeros)
 "avian_common_count"
 
 #' Avian community abundance, richness, and diversity
